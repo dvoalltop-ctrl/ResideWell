@@ -8,6 +8,7 @@ Work top to bottom. The site is ready to send when every box above "Later" is ch
 - [ ] **Add Calendly link if available** — point the "Request an 8-Week Pilot" / "Request Pilot Details" buttons at your Calendly booking page instead of `#contact`. If you don't have one yet, the form is fine.
 - [ ] **Add founder name if desired** — update the founder note attribution in `index.html` (search for `CUSTOMIZE`).
 - [ ] **Confirm CTA destination** — decide whether every CTA scrolls to the contact form or opens Calendly, and make them consistent.
+- [ ] **Confirm the reply-time commitment** — the contact form says "We reply within one business day." Honor it or soften the wording in `index.html`.
 - [ ] **Update `og:url`** — set the Open Graph URL meta tag in `index.html` to your live URL after deploying.
 - [ ] **Test mobile view** — open the live site on your phone; check the nav menu, pilot section, pricing cards, and form.
 

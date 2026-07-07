@@ -394,16 +394,20 @@ button:focus-visible {
   text-align: left;
 }
 
+/* Minimal sage dot marker — intentional, premium, no icon fonts needed */
+.card-problem::before {
+  content: "";
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--sage);
+  margin-bottom: 0.9rem;
+}
+
 .card-problem h3 {
   font-size: 1.02rem;
   margin: 0;
-}
-
-.card-icon {
-  display: inline-block;
-  font-size: 1.3rem;
-  color: var(--sage);
-  margin-bottom: 0.7rem;
 }
 
 .card-num {
@@ -612,6 +616,84 @@ button:focus-visible {
   font-size: 0.95rem;
 }
 
+/* ---------- Mid-page CTA band ---------- */
+.cta-band {
+  margin-top: 2.75rem;
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.75rem;
+}
+
+.cta-band p {
+  font-weight: 650;
+  font-size: 1.1rem;
+  margin: 0;
+  flex: 1;
+  min-width: 200px;
+}
+
+/* ---------- FAQ ---------- */
+.section-faq {
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+}
+
+.faq-list {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.faq-item {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.faq-item summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 1.1rem 3rem 1.1rem 1.4rem;
+  font-weight: 600;
+  position: relative;
+}
+
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-item summary::after {
+  content: "+";
+  position: absolute;
+  right: 1.3rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--sage);
+  line-height: 1;
+}
+
+.faq-item[open] summary::after {
+  content: "\2212"; /* minus sign */
+}
+
+.faq-item summary:focus-visible {
+  outline: 3px solid var(--sage);
+  outline-offset: -3px;
+}
+
+.faq-item p {
+  padding: 0 1.4rem 1.2rem;
+  color: var(--text-soft);
+  font-size: 0.98rem;
+}
+
 /* ---------- 10. Founder note ---------- */
 .section-founder {
   background: var(--surface);
@@ -652,6 +734,43 @@ button:focus-visible {
 .contact-copy p {
   color: var(--text-soft);
   margin-bottom: 1rem;
+}
+
+.next-steps {
+  list-style: none;
+  counter-reset: step;
+  display: grid;
+  gap: 0.9rem;
+  margin: 1.4rem 0 1.6rem;
+}
+
+.next-steps li {
+  counter-increment: step;
+  position: relative;
+  padding-left: 3rem;
+  color: var(--text-soft);
+  font-size: 0.98rem;
+}
+
+.next-steps li strong {
+  color: var(--text);
+}
+
+.next-steps li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.05em;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--sage-tint);
+  color: var(--sage-dark);
+  font-weight: 700;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .contact-direct {

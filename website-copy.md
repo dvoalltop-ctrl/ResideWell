@@ -97,7 +97,7 @@ We plan, staff, promote, track, and report on wellness experiences that help apa
 Start with an 8-week Resident Wellness Pilot.
 
 **Copy:**
-A structured, fixed-scope pilot designed to measure resident interest and prove engagement — before any long-term commitment.
+A structured, fixed-scope pilot designed to measure resident interest and prove engagement — before any long-term commitment. Your team approves the plan and posts the announcements we write; the lift for onsite staff is typically under an hour a week.
 
 **Includes:**
 - 8 weeks
@@ -110,7 +110,7 @@ A structured, fixed-scope pilot designed to measure resident interest and prove 
 - Annual program recommendation
 
 **Price language:**
-Pilot programs typically start at $4,000, with lean and premium options available based on property size, schedule, and event needs.
+Pilot programs typically start at $4,000, with lean and premium options available based on property size, schedule, and event needs. At a 250-unit community, that works out to about $2 per unit per week.
 
 **CTA:** Request Pilot Details
 
@@ -173,13 +173,36 @@ Pilot programs typically start at $4,000, with lean and premium options availabl
 - Properties with 150+ units
 - Communities with fitness, rooftop, courtyard, pool, lounge, or studio space
 
+**CTA band:** Sound like your community? → Request Pilot Details
+
+---
+
+## 9b. Common Questions (FAQ)
+
+**Headline:** Common questions from property teams.
+
+**Q: How much work is this for our onsite team?**
+Very little by design. Your team approves the schedule, provides access to the space, and posts the announcements we write for you. We handle programming, instructors, registration, attendance, and reporting — typically under an hour a week of staff time.
+
+**Q: Who teaches the classes?**
+Instructors sourced and screened by ResideWell. Every instructor is required to maintain current certification and liability insurance, follows written professionalism standards built for luxury residential settings, and has backup coverage so a scheduling conflict never becomes your problem.
+
+**Q: Which amenity spaces work for programming?**
+Fitness centers, rooftops, courtyards, pool decks, lounges, and studio or flex spaces all work. During a short walkthrough we scope which spaces and formats fit your property and your residents.
+
+**Q: How do we know if it's working?**
+Every class uses QR-code registration and attendance tracking, and residents complete a short feedback survey. You receive a final engagement summary you can share with regional managers and ownership — real numbers, not anecdotes.
+
+**Q: What happens after the 8 weeks?**
+You receive the engagement summary and an annual program recommendation based on what residents actually attended and asked for. Continue with an annual program, adjust the format, or stop — the pilot carries no further obligation.
+
 ---
 
 ## 10. Founder Note
 
 > ResideWell is founder-led and built around professional service, clear communication, and operational follow-through. Our goal is to make resident wellness programming feel easy for property teams and valuable for residents.
 
-**Attribution:** — The ResideWell Team *(replace with founder name when ready)*
+**Attribution:** — Founder, ResideWell *(replace with "FirstName LastName, Founder" when ready)*
 
 ---
 
@@ -191,11 +214,16 @@ Want to test resident wellness programming at your property?
 **Copy:**
 Start with a simple 8-week pilot designed to measure resident interest, activate existing amenity spaces, and give your team a clear path forward.
 
+**What happens next (3 steps):**
+1. **15-minute intro call** — a quick conversation about your property, spaces, and goals. No pitch deck.
+2. **Short amenity walkthrough** — onsite or virtual, to scope the right spaces and schedule.
+3. **Custom pilot proposal** — a one-page plan with scope, schedule, and pricing for your community.
+
 **Form fields:** Name · Email · Property Name · Property Location · Message
 
 **CTA:** Request Pilot Information
 
-**Form note:** Submitting opens a pre-filled email in your mail app — no data is stored on this site.
+**Form note:** We reply within one business day. Submitting opens a pre-filled email in your mail app — no data is stored on this site.
 
 ---
 
