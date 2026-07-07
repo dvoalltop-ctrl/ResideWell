@@ -1,0 +1,24 @@
+.DS_Store
+Thumbs.db
+
+# Local editor and OS files
+.idea/
+*.swp
+*.swo
+
+# Dependencies and build output if tooling is added later
+node_modules/
+dist/
+build/
+.parcel-cache/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
