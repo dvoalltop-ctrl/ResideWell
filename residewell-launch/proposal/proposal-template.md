@@ -46,7 +46,7 @@ Based on our discovery call, this pilot will support:
 | Element               | Detail                                                 |
 | --------------------- | ------------------------------------------------------ |
 | **Duration**          | 8 weeks                                                |
-| **Frequency**         | 2 live classes per week (16 total)                     |
+| **Frequency**         | 1 live class per week (8 total)                        |
 | **Proposed schedule** | [e.g., Tuesday 6:30 PM + Saturday 9:00 AM]             |
 | **Locations**         | [e.g., Yoga studio + Rooftop]                          |
 | **Class mix**         | [e.g., Vinyasa yoga, Pilates mat, total body strength] |
@@ -56,7 +56,7 @@ Based on our discovery call, this pilot will support:
 
 ## What's Included
 
-- Vetted, insured instructors for all 16 classes
+- Vetted, insured instructors for all 8 classes
 - Resident registration system with reminders
 - Weekly attendance tracking
 - Promotional copy and assets for resident email, portal, and social

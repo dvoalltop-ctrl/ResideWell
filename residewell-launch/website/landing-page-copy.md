@@ -62,7 +62,7 @@ Low risk. Clear scope. Real data.
 |                      |                                                           |
 | -------------------- | --------------------------------------------------------- |
 | **Duration**         | 8 weeks                                                   |
-| **Classes**          | 2 per week (16 total)                                     |
+| **Classes**          | 1 live class per week (8 total)                           |
 | **Your team's lift** | Approve schedule, share registration link, provide access |
 | **Investment**       | $4,000 all-inclusive                                      |
 

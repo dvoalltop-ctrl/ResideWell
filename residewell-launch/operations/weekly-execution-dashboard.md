@@ -1,6 +1,6 @@
 # Weekly Execution Dashboard
 
-> **Primary metric:** Discovery calls booked this week: _____ / **2**
+> **Primary metric:** Discovery calls booked this week: \_\_\_\_\_ / **2**
 
 Update every **Friday 6:30 PM** (15 min).
 
@@ -8,50 +8,64 @@ Update every **Friday 6:30 PM** (15 min).
 
 ## Scoreboard
 
-| Metric                                     | Target | Actual | Hit? |
-| ------------------------------------------ | ------ | ------ | ---- |
-| **Discovery calls booked**                 | **2**  |        |      |
-| Discovery calls completed                  | 1      |        |      |
-| Proposals / one-pagers sent post-call      | 1      |        |      |
-| Outreach emails sent (Email 1)             | 15     |        |      |
-| Contacts verified (cumulative)             | 20     |        |      |
-| Properties researched (cumulative)         | 15     |        |      |
-| LinkedIn touches                           | 10     |        |      |
-| Phone calls attempted                      | 5      |        |      |
-| Replies received                           | 3      |        |      |
-| Instructor messages (only after 10 emails) | 5      |        |      |
+| Metric                                  | Target | Actual | Hit? |
+| --------------------------------------- | ------ | ------ | ---- |
+| **Discovery calls booked**              | **2**  |        |      |
+| Discovery calls completed               | 1      |        |      |
+| Proposals sent post-call                | 1      |        |      |
+| Properties contacted (Email 1)          | 15     |        |      |
+| Contacts added (verified)               | 20     |        |      |
+| Replies received                        | 3      |        |      |
+| LinkedIn touches                        | 10     |        |      |
+| Phone calls attempted                   | 5      |        |      |
+| Properties researched (cumulative → 50) | 15     |        |      |
+| Instructor messages (after 10 emails)   | 5      |        |      |
 
-**Week grade:** If Discovery Booked ≥ 1 → B+. If ≥ 2 → A. If 0 → repeat same targets next week, don't add new tactics.
-
----
-
-## Pipeline (update counts — names in CRM)
-
-| Status           | Count | Property names (top 3 hot) |
-| ---------------- | ----- | -------------------------- |
-| Outreach Sent    |       |                            |
-| Replied          |       |                            |
-| Discovery Booked |       |                            |
-| Discovery Done   |       |                            |
-| Proposal Sent    |       |                            |
+**Week grade:** Discovery Booked ≥ 2 → A. ≥ 1 → B+. 0 → repeat same targets next week; do not add new tactics.
 
 ---
 
-## Daily Quotas (not optional)
+## Pipeline (counts — names live in CRM)
 
-| Day     | Must complete                                      |
-| ------- | -------------------------------------------------- |
-| **Mon** | 3 properties researched + 3 Email 1s               |
-| **Tue** | 3 Email 1s + 3 LinkedIn connections                |
-| **Wed** | 3 Email 1s + follow up all replies same-day        |
-| **Thu** | 3 Email 1s + 2 phone calls                         |
-| **Fri** | 3 Email 1s (total 15) + CRM audit + this dashboard |
-
-_Miss a day? Saturday 9 AM: catch up emails only — no research rabbit holes._
+| Status           | Count | Top 3 hot properties |
+| ---------------- | ----- | -------------------- |
+| Outreach Sent    |       |                      |
+| Replied          |       |                      |
+| Discovery Booked |       |                      |
+| Discovery Done   |       |                      |
+| Proposal Sent    |       |                      |
+| Pilot Won        |       |                      |
 
 ---
 
-## Hot List (max 5 — who could close)
+## Business metrics (update as they exist)
+
+| Metric                                               | This week | Running               |
+| ---------------------------------------------------- | --------- | --------------------- |
+| Reply rate (replies ÷ emails)                        |           | target 5–10%          |
+| Pilots closed                                        |           |                       |
+| Pilot-to-annual conversion                           |           | after first pilot     |
+| Monthly recurring revenue                            |           | $0 until first annual |
+| Gross margin (pilot)                                 |           | target 45%+           |
+| Instructor reliability (classes covered ÷ scheduled) |           | after launch          |
+| Attendance per class                                 |           | after launch          |
+| Resident satisfaction (survey avg)                   |           | after launch          |
+
+---
+
+## Daily quotas (`../sales/daily-outreach-workflow.md`)
+
+| Day | Must complete                                      |
+| --- | -------------------------------------------------- |
+| Mon | 3 Email 1s + 3 properties researched               |
+| Tue | 3 Email 1s + 3 LinkedIn connections                |
+| Wed | 3 Email 1s + follow-ups + 2 LinkedIn messages      |
+| Thu | 3 Email 1s + 2 phone calls                         |
+| Fri | 3 Email 1s (15 total) + CRM audit + this dashboard |
+
+---
+
+## Hot list (max 5)
 
 | Property | Contact | Status | Next action | Date |
 | -------- | ------- | ------ | ----------- | ---- |
@@ -63,31 +77,18 @@ _Miss a day? Saturday 9 AM: catch up emails only — no research rabbit holes._
 
 ---
 
-## What Worked / What Didn't
+## What worked / what didn't
 
-**Best reply source:** Email / LinkedIn / Phone / —  
-**Best hook that got a reply:**  
-**Objection heard most:**  
-**One thing to change next week:**
-
----
-
-## Conversion Tracker (update monthly)
-
-| Stage               | Count | Rate |
-| ------------------- | ----- | ---- |
-| Emails sent         |       |      |
-| Replies             |       | %    |
-| Discovery booked    |       | %    |
-| Discovery completed |       | %    |
-| Proposal sent       |       | %    |
-| Pilot won           |       | %    |
+**Best reply channel:** Email / LinkedIn / Phone
+**Best outreach angle that got a reply:**
+**Most common objection:**
+**One change for next week:**
 
 ---
 
 ## Rules
 
-1. **Discovery calls booked** is the only metric that matters week 1–4.
+1. **Discovery calls booked** is the only metric that matters until the first pilot closes.
 2. No instructor recruiting until 10 property emails sent.
 3. No website work unless a prospect asked for the URL.
-4. If Actual < 50% of Target by Wednesday, cut research — send more Email 1s Thursday AM.
+4. Behind by Wednesday? Cut research — send more Email 1s Thursday morning.

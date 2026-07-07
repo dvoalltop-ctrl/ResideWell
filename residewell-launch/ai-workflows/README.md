@@ -4,12 +4,12 @@
 
 **Use AI when it saves 15+ minutes on a specific task:**
 
-| Prompt file                           | Use when                                                                      |
-| ------------------------------------- | ----------------------------------------------------------------------------- |
-| `lead-research-prompts.md`            | Researching property #6–15 and need structured notes for CRM                  |
-| `property-personalization-prompts.md` | Stuck writing Personalization Hook or Email 1 for a High Quick Score property |
-| `proposal-customization-prompts.md`   | **After discovery call** — property wants named proposal beyond one-pager     |
-| `monthly-reporting-prompts.md`        | **After pilot launches** — not before first sale                              |
+| Prompt file                           | Use when                                                                  |
+| ------------------------------------- | ------------------------------------------------------------------------- |
+| `lead-research-prompts.md`            | Researching property #6–15 and need structured notes for CRM              |
+| `property-personalization-prompts.md` | Stuck writing an Outreach Angle or Email 1 for a Fit Score 5 property     |
+| `proposal-customization-prompts.md`   | **After discovery call** — property wants named proposal beyond one-pager |
+| `monthly-reporting-prompts.md`        | **After pilot launches** — not before first sale                          |
 
 **Rules:**
 

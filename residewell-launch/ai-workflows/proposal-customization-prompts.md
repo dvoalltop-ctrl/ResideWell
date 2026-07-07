@@ -71,7 +71,7 @@ Resident profile: [young professionals / families / mixed — from discovery]
 Amenities: [fitness center, studio, rooftop, etc.]
 Competing time demands: [if known — e.g., lots of WFH residents]
 
-Pilot: 8 weeks, 2 classes/week
+Pilot: 8 weeks, 1 class/week
 
 Recommend:
 - 2 class formats
@@ -91,7 +91,7 @@ Set realistic pilot success metrics for:
 
 Property: [Name]
 Unit count: [X]
-Class frequency: 2x/week
+Class frequency: 1x/week
 Formats: [yoga, Pilates, etc.]
 
 Provide targets for:

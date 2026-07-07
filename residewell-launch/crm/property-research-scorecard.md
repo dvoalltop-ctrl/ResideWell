@@ -1,210 +1,120 @@
-# Property Research Scorecard
+# Property Research Workflow & Fit Scoring
 
-**Week 1:** Use **Quick Score only** (3 minutes). Full scorecard is for prioritizing your second 35 properties.
+> **Goal:** 50 researched properties → 15–20 at Fit Score 4–5 → outreach → discovery calls.
 
-**Target week 1:** 15 properties researched, 15 with Quick Score ≥ 3, top 10 with verified contacts get Email 1.
-
----
-
-## Quick Score (3 min — use this first)
-
-Answer three questions. Add points. Use **Quick Score** column in CRM.
-
-| Question                                                         | 0 pts                    | 1 pt                             | 2 pts                                   |
-| ---------------------------------------------------------------- | ------------------------ | -------------------------------- | --------------------------------------- |
-| **A. Size & class** — Unit count + Class A?                      | <150 units or not luxury | 150–249 Class A or 250+ A-       | 250+ Class A                            |
-| **B. Activation potential** — Usable space beyond basic gym?     | Gym only                 | Gym + lounge/courtyard/pool deck | Dedicated studio/rooftop + gym          |
-| **C. Reachability** — Can you find a verified contact in 15 min? | No contact path          | PM on LinkedIn only              | PM email or LinkedIn + regional visible |
-
-**Quick Score = A + B + C (max 6)**
-
-| Quick Score | Action                                      |
-| ----------- | ------------------------------------------- |
-| **5–6**     | Research contacts today → Email 1 this week |
-| **4**       | Add to CRM → contact after top tier         |
-| **2–3**     | Park — revisit week 3                       |
-| **0–1**     | Skip                                        |
-
-**Personalization Hook:** Write one sentence immediately after Quick Score (see `week-1-crm-setup.md`).
+**Public data only.** Never invent contacts, emails, unit counts, or ownership details. Mark unknown fields as **"Unknown."**
 
 ---
 
-## Full Fit Score (optional — use after 15 properties)
+## What to extract per property (15 fields)
 
-Score each property **1–5** on eight criteria below. Add the scores and divide by 8 for **Fit Score** (use `Fit Score` column).
+When researching a target apartment property, extract and score:
 
-Prioritize properties scoring **4.0+** for portfolio expansion conversations.
+| #   | Field                                              | Source                                         |
+| --- | -------------------------------------------------- | ---------------------------------------------- |
+| 1   | Property name                                      | Property website                               |
+| 2   | City                                               | Website / Google Maps                          |
+| 3   | Submarket                                          | Your target list                               |
+| 4   | Unit count, if available                           | Website, Apartments.com, Zillow                |
+| 5   | Management company                                 | Website footer, listing sites                  |
+| 6   | Ownership company, if available                    | Press releases, county records — often Unknown |
+| 7   | Property manager or regional contact, if available | LinkedIn, website team page                    |
+| 8   | Amenities (see checklist below)                    | Website amenities page                         |
+| 9   | Current resident events, if publicly visible       | Instagram, Facebook, website events            |
+| 10  | Luxury positioning                                 | Rent range, photography, "luxury" language     |
+| 11  | Review themes                                      | Google reviews (read 10–15 recent)             |
+| 12  | Likely pain point                                  | Your one-sentence hypothesis                   |
+| 13  | Outreach angle                                     | One specific observation for Email 1           |
+| 14  | Fit score (1–5)                                    | Scale below                                    |
+| 15  | Recommended next action                            | Email 1 / find contact / park                  |
 
----
+### Amenity checklist (field 8)
 
-## Full Scoring Criteria
-
-### 1. Unit Count (1–5)
-
-| Score | Criteria        |
-| ----- | --------------- |
-| 5     | 300+ units      |
-| 4     | 200–299 units   |
-| 3     | 150–199 units   |
-| 2     | 100–149 units   |
-| 1     | Under 100 units |
-
-_Rationale: Larger communities justify program cost and attendance base._
-
----
-
-### 2. Luxury Positioning (1–5)
-
-| Score | Criteria                                                     |
-| ----- | ------------------------------------------------------------ |
-| 5     | Clear Class A — premium finishes, concierge, luxury branding |
-| 4     | Class A- or strong luxury marketing                          |
-| 3     | Upper-mid market, some premium signals                       |
-| 2     | Mid-market, limited luxury cues                              |
-| 1     | Not luxury-oriented                                          |
-
-_Check: rent ranges, website photography, amenity descriptions, "luxury" / "boutique" language._
+- Fitness center
+- Yoga/studio space
+- Rooftop
+- Courtyard
+- Pool
+- Resident lounge
 
 ---
 
-### 3. Amenity Quality (1–5)
+## Fit scoring (1–5)
 
-| Score | Criteria                                                                             |
-| ----- | ------------------------------------------------------------------------------------ |
-| 5     | Dedicated studio/yoga space + fitness center + outdoor activation space              |
-| 4     | Strong fitness center + one additional activation space (rooftop, courtyard, lounge) |
-| 3     | Standard fitness center, some communal spaces                                        |
-| 2     | Basic gym only                                                                       |
-| 1     | Minimal amenities                                                                    |
+| Score | Criteria                                                                                       |
+| ----- | ---------------------------------------------------------------------------------------------- |
+| **5** | Luxury, 180+ units, strong amenities, professional management, likely resident engagement need |
+| **4** | Strong fit but missing one key signal                                                          |
+| **3** | Possible fit, needs more research                                                              |
+| **2** | Weak fit                                                                                       |
+| **1** | Do not prioritize                                                                              |
 
----
-
-### 4. Evidence of Resident Events (1–5)
-
-| Score | Criteria                                                                   |
-| ----- | -------------------------------------------------------------------------- |
-| 5     | Regular events visible (social posts, event calendar, resident newsletter) |
-| 4     | Seasonal or monthly events                                                 |
-| 3     | Occasional events (holidays, move-in)                                      |
-| 2     | Rare or generic events                                                     |
-| 1     | No evidence of resident programming                                        |
-
-_Sources: property Instagram, Facebook, website events page, Google reviews mentioning events._
+| Fit Score | Action                                   |
+| --------- | ---------------------------------------- |
+| 5         | Verify contact today → Email 1 this week |
+| 4         | Email 1 after all 5s contacted           |
+| 3         | Park — revisit when pipeline thins       |
+| 1–2       | Skip                                     |
 
 ---
 
-### 5. Management Company Size (1–5)
+## Research workflow (15 min per property, public data only)
 
-| Score | Criteria                                                       |
-| ----- | -------------------------------------------------------------- |
-| 5     | National/large regional manager with 50+ communities in market |
-| 4     | Established regional manager, multiple Atlanta properties      |
-| 3     | Mid-size manager, 5–20 properties                              |
-| 2     | Small local manager                                            |
-| 1     | Self-managed or unknown                                        |
+- [ ] **Google** `"[property name]" apartments [submarket]` → confirm website (2 min)
+- [ ] **Website:** unit count, luxury positioning, management company (3 min)
+- [ ] **Amenities page:** run the 6-item checklist; note the most underused space (3 min)
+- [ ] **Instagram / Facebook:** current resident events, if publicly visible (2 min)
+- [ ] **Google reviews:** rating + top 2–3 themes (2 min)
+- [ ] **LinkedIn:** `"[property name]" community manager` and `"[management company]" regional manager Atlanta` (3 min)
+- [ ] **Score & log:** Fit Score, pain point, outreach angle → CRM row
 
-_Portfolio expansion potential increases with management company size._
-
----
-
-### 6. Location Quality (1–5)
-
-| Score | Criteria                                                          |
-| ----- | ----------------------------------------------------------------- |
-| 5     | Prime submarket (Buckhead, Midtown core, top Alpharetta corridor) |
-| 4     | Strong submarket (Sandy Springs, Brookhaven, Johns Creek)         |
-| 3     | Solid North Atlanta / suburban luxury corridor                    |
-| 2     | Peripheral location                                               |
-| 1     | Outside target geography                                          |
-
-**Target submarkets:** Buckhead, Midtown, Sandy Springs, Alpharetta, Suwanee, Duluth, Brookhaven, Johns Creek, North Atlanta.
+**Unknown fields:** enter "Unknown" — never guess. `Contact Verified = No` until a real name/email is confirmed.
 
 ---
 
-### 7. Likelihood to Pay (1–5)
+## Public data sources
 
-| Score | Criteria                                                                                     |
-| ----- | -------------------------------------------------------------------------------------------- |
-| 5     | Class A + large units + underused premium spaces + management co. that invests in experience |
-| 4     | Strong fit, some budget signals (recent renovations, active marketing)                       |
-| 3     | Possible but budget unclear                                                                  |
-| 2     | Price-sensitive signals in reviews or positioning                                            |
-| 1     | Unlikely to pay $3,500+ for pilot                                                            |
-
----
-
-### 8. Portfolio Expansion Potential (1–5)
-
-| Score | Criteria                                                      |
-| ----- | ------------------------------------------------------------- |
-| 5     | Same management co. operates 5+ target properties in your CRM |
-| 4     | 3–4 properties in portfolio locally                           |
-| 3     | 2 properties                                                  |
-| 2     | Single property, but large management company nationally      |
-| 1     | One-off, small operator                                       |
+| Source                        | Fields            |
+| ----------------------------- | ----------------- |
+| Property website              | 1, 2, 4, 5, 8, 10 |
+| Apartments.com / Zillow       | 4, 5              |
+| Google Maps + reviews         | 2, 11             |
+| Property Instagram / Facebook | 9                 |
+| LinkedIn                      | 7                 |
+| Management company website    | 5, 6, 7           |
 
 ---
 
-## Fit Score Calculation
+## Batch-of-5 rhythm (scaling to 50)
 
-```
-Fit Score = (Sum of 8 criteria scores) ÷ 8
-```
+Research in batches of 5 per sitting (~75 min):
 
-| Fit Score | Priority Level | Action                                |
-| --------- | -------------- | ------------------------------------- |
-| 4.5 – 5.0 | **High**       | Outreach this week — email + LinkedIn |
-| 3.5 – 4.4 | **Medium**     | Outreach week 2–3                     |
-| 2.5 – 3.4 | **Low**        | Keep in CRM, nurture later            |
-| Below 2.5 | **Skip**       | Remove or park                        |
+| Week | New rows | Running total |
+| ---- | -------- | ------------- |
+| 1    | 15       | 15            |
+| 2    | 15       | 30            |
+| 3    | 10       | 40            |
+| 4    | 10       | 50            |
 
----
-
-## Property Research Workflow (15 min per property — week 1)
-
-### Quick path (use this)
-
-- [ ] Google property + confirm Class A + unit count (3 min)
-- [ ] Amenities page → note gym + best activation space (3 min)
-- [ ] Quick Score A+B+C → log in CRM (2 min)
-- [ ] Write Personalization Hook (2 min)
-- [ ] Find PM on LinkedIn → verify contact (5 min)
-- [ ] If Quick Score ≥ 4 and Contact Verified → queue Email 1
-
-### Skip for week 1
-
-- Full 8-criteria Fit Score (do later)
-- Ownership company research
-- Regional contact (unless PM not findable)
+**Rule:** never research more than 5 properties without sending at least 3 emails. Research feeds outreach — it doesn't replace it.
 
 ---
 
-## Research Sources (Atlanta Market)
+## Submarket targets (50 properties)
 
-| Source                     | Use For                                                |
-| -------------------------- | ------------------------------------------------------ |
-| Property website           | Amenities, photos, events, management company          |
-| Google Maps / Reviews      | Rating, review themes, resident sentiment              |
-| LinkedIn                   | Property manager, regional manager, management company |
-| Apartments.com / Zillow    | Unit count, rent range, management company             |
-| Property Instagram         | Current events, community vibe                         |
-| Management company website | Portfolio list, regional contacts                      |
+| Submarket             | Target |
+| --------------------- | ------ |
+| Buckhead              | 8      |
+| Midtown               | 6      |
+| Alpharetta            | 8      |
+| Sandy Springs         | 6      |
+| Brookhaven            | 5      |
+| Johns Creek           | 5      |
+| Duluth / Suwanee      | 6      |
+| North Atlanta (misc.) | 6      |
 
 ---
 
-## Submarket Research Targets (50 properties)
+## AI-assisted research (optional)
 
-Distribute roughly:
-
-| Submarket             | Target Count |
-| --------------------- | ------------ |
-| Buckhead              | 8            |
-| Midtown               | 6            |
-| Sandy Springs         | 6            |
-| Alpharetta            | 8            |
-| Brookhaven            | 5            |
-| Johns Creek           | 5            |
-| Duluth / Suwanee      | 6            |
-| North Atlanta (misc.) | 6            |
-
-Adjust as you research — some submarkets have more Class A inventory than others.
+Use `../ai-workflows/lead-research-prompts.md` to structure notes faster. Verify every AI-supplied fact against a public source before it enters the CRM. AI never supplies contacts — LinkedIn does.

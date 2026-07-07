@@ -11,7 +11,7 @@ Write a personalized B2B outreach email for ResideWell.
 
 CONTEXT:
 - ResideWell helps luxury apartment communities activate amenity spaces with live wellness programming (classes, registration, attendance, reporting) without adding work to the property team.
-- Offer: 8-week pilot, 2 classes/week, $4,000 all-inclusive.
+- Offer: 8-week paid pilot, 1 live class/week, launch marketing, registration QR code, attendance tracking, feedback survey, final engagement report — $4,000 all-inclusive.
 
 PROPERTY:
 - Name: [Property Name]

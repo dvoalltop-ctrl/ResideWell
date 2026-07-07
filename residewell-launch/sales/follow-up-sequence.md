@@ -96,7 +96,7 @@ Excited to move forward. Here's what we need to launch:
 
 **From [Property Name]:**
 
-- [ ] Confirm class schedule (2x/week — proposed: [days/times])
+- [ ] Confirm class schedule (1x/week — proposed: [day/time])
 - [ ] Confirm spaces: [list spaces]
 - [ ] Point of contact for building access and resident communication
 - [ ] Permission to promote via [email / resident portal / social]

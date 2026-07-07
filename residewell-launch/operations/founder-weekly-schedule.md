@@ -22,11 +22,11 @@ Sales first. Instructors after email #10. Website once.
 
 ### Monday — Research + Email (1 hr)
 
-| Time         | Activity                                                         |
-| ------------ | ---------------------------------------------------------------- |
-| 6:00–6:40 AM | Research 3 properties → CRM → Quick Score → Personalization Hook |
-| 6:40–7:00 AM | Verify contacts → send **3 Email 1s**                            |
-| Evening      | Off                                                              |
+| Time         | Activity                                                 |
+| ------------ | -------------------------------------------------------- |
+| 6:00–6:40 AM | Research 3 properties → CRM → Fit Score → Outreach Angle |
+| 6:40–7:00 AM | Verify contacts → send **3 Email 1s**                    |
+| Evening      | Off                                                      |
 
 ### Tuesday — Email + LinkedIn (1 hr)
 
@@ -48,12 +48,12 @@ Sales first. Instructors after email #10. Website once.
 
 ### Thursday — Calls + Email (1.25 hr)
 
-| Time         | Activity                                             |
-| ------------ | ---------------------------------------------------- |
-| 6:00–6:20 AM | **2 phone calls** to High Quick Score non-responders |
-| 6:20–6:45 AM | Send **3 Email 1s**                                  |
-| 6:45–7:00 AM | LinkedIn: 2 messages                                 |
-| 7:00–7:30 PM | Discovery call if scheduled                          |
+| Time         | Activity                                        |
+| ------------ | ----------------------------------------------- |
+| 6:00–6:20 AM | **2 phone calls** to Fit Score 5 non-responders |
+| 6:20–6:45 AM | Send **3 Email 1s**                             |
+| 6:45–7:00 AM | LinkedIn: 2 messages                            |
+| 7:00–7:30 PM | Discovery call if scheduled                     |
 
 ### Friday — Close the Week (1 hr)
 

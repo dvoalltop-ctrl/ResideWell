@@ -1,137 +1,113 @@
-# 8-Week Resident Wellness Pilot
+# 8-Week Resident Wellness Pilot — [Property Name]
 
-> **ResideWell** — Resident Experience & Amenity Activation for Luxury Multifamily  
-> **Use:** Attach to thank-you email within 24 hours of discovery call. Export as PDF.
-
----
-
-## At a glance
-
-| Item                   | Detail                                                    |
-| ---------------------- | --------------------------------------------------------- |
-| **What**               | Turnkey resident wellness in your existing amenity spaces |
-| **Duration**           | 8 weeks                                                   |
-| **Classes**            | 2 live classes per week (16 total)                        |
-| **Property team time** | Under 1 hour per week                                     |
-| **Investment**         | **$4,000** all-inclusive                                  |
-| **Payment**            | 50% signing · 50% week 4                                  |
-| **Next step**          | 15-minute call → kickoff in ~2 weeks                      |
+> **ResideWell** — Resident Experience & Amenity Activation for Class A Communities
+> **Use:** Customize the `[brackets]`, export to PDF, send within 24 hours of the discovery call.
 
 ---
 
-## Headline
+## 1. Headline
 
-**Prove resident engagement in 8 weeks — without adding to your team's plate.**
-
----
-
-## The Problem
-
-Your property invested in amenities residents barely use after month three. Programming is inconsistent. Your team doesn't have time to recruit instructors, manage schedules, and report attendance to ownership.
+**Activate [Property Name]'s amenity spaces — and measure resident engagement — in 8 weeks.**
 
 ---
 
-## The Solution
+## 2. Property-specific opportunity
 
-ResideWell runs a turnkey **8-Week Resident Wellness Pilot** in spaces you already have — fitness center, studio, rooftop, lounge, or courtyard. We operate. You approve, promote, and provide access.
+[Property Name] is a [unit count]-unit Class A community in [Submarket] with [name the specific spaces: wellness studio / rooftop / resident lounge]. Based on [our conversation on [date] / public information], these spaces are underused relative to their potential — a consistent, professionally run program would give residents a reason to use them every week.
 
-**This is not a gym.** It's resident experience programming that supports retention, reviews, and amenity ROI.
-
----
-
-## What Is Included
-
-| You get             | Details                                                       |
-| ------------------- | ------------------------------------------------------------- |
-| **16 live classes** | 2 per week for 8 weeks                                        |
-| **Formats**         | Yoga, Pilates, strength, mobility — matched to your residents |
-| **Instructors**     | Vetted, insured, punctual — we handle scheduling and backups  |
-| **Registration**    | Sign-up link, reminders, capacity management                  |
-| **Attendance data** | Weekly headcount — real numbers for ownership                 |
-| **Marketing kit**   | Email copy, social posts, flyer content for your channels     |
-| **Reports**         | Week 4 check-in + Week 8 final report with recommendations    |
-| **One contact**     | Single ResideWell point of contact — no vendor chaos          |
+_[One sentence from the discovery call, in their words.]_
 
 ---
 
-## What Your Team Does (under 1 hour/week)
+## 3. Problem
 
-1. Approve schedule and spaces (one-time, week 0)
-2. Share registration link with residents (email + portal)
-3. Provide amenity access on class days
-4. Designate one contact for day-of questions
-
-**That's it.** We do not ask your team to run classes, find instructors, or chase residents.
+Class A communities invest heavily in amenities, but utilization drops after lease-up. Onsite teams are asked to drive resident engagement and renewals — without the hours to plan, staff, market, and measure weekly programming.
 
 ---
 
-## What ResideWell Does
+## 4. Recommended 8-week pilot
 
-- Recruit, schedule, and pay instructors
-- Set up, run, and break down every class
-- Manage resident registration and reminders
-- Track attendance and compile reports
-- Provide promotional assets
-- Handle schedule changes and backup coverage
-
----
-
-## Timeline
-
-| When          | What happens                                                    |
-| ------------- | --------------------------------------------------------------- |
-| **Week 0**    | Kickoff call, walkthrough, registration live, property promotes |
-| **Weeks 1–2** | Classes launch, attendance tracked                              |
-| **Week 4**    | Mid-pilot review — adjust format/time if needed                 |
-| **Week 8**    | Final class + report + renewal recommendation                   |
-
-**Kickoff ~2 weeks after agreement** — time to assign instructors and promote to residents.
+| Element           | Detail                                                    |
+| ----------------- | --------------------------------------------------------- |
+| Duration          | 8 weeks                                                   |
+| Programming       | **1 live class per week** in [proposed space]             |
+| Proposed schedule | [e.g., Tuesday 6:30 PM]                                   |
+| Format            | [Yoga / Pilates / strength — matched to resident profile] |
+| Launch marketing  | Email copy, portal post, and flyer for your channels      |
+| Registration      | Resident registration QR code + sign-up link              |
+| Measurement       | Attendance tracking + resident feedback survey            |
+| Closeout          | Final engagement report + annual program recommendation   |
 
 ---
 
-## Success Metrics (what we report)
+## 5. What ResideWell handles
 
-| Metric                   | What it tells ownership           |
-| ------------------------ | --------------------------------- |
-| Weekly attendance        | Are residents showing up?         |
-| Unique residents         | How many households participated? |
-| Repeat rate              | Is this becoming habit?           |
-| Registration vs. walk-in | Is promotion working?             |
-
-Target range for Class A 200–400 units: **8–15 residents per class** by week 4. We report honestly — even if it's lower — and recommend adjustments.
-
----
-
-## Investment
-
-### Standard Pilot — **$4,000** (recommended)
-
-8 weeks · 2 classes/week · 16 classes · full reporting
-
-**Payment:** 50% on signing ($2,000) · 50% at week 4 ($2,000)
-
-_Alternate tiers available on call: Lean $3,500 · Premium $5,000 (3 classes/week or premium formats). Default to Standard unless property is <200 units or requests more frequency._
+- Programming design and vetted, insured instructors
+- Launch marketing assets for your resident channels
+- Resident registration (QR code, link, reminders)
+- Attendance tracking every class
+- Resident feedback survey
+- Final engagement report with annual program recommendation
+- One point of contact for your team
 
 ---
 
-## Why Start With a Pilot (not annual)
+## 6. What the property team handles
 
-- **Low risk** — $4,000 vs. $15,000+ annual commitment
-- **Real data** — attendance before ownership approves ongoing spend
-- **Fast** — kickoff in 2 weeks, results in 8
-- **Easy exit** — if it doesn't work, you learned cheaply
+- Approve the schedule and space (one-time)
+- Share the registration link and QR code with residents
+- Provide amenity access on class day
+- Name one point of contact
 
-Annual programs ($1,250–$1,800+/month) are available after a successful pilot. We don't lead with annual.
-
----
-
-## Next Step
-
-**15-minute call** to confirm spaces, schedule, and kickoff date.
-
-[Your Name]  
-[Phone] | [Email]
+**Estimated time: under 1 hour per week.**
 
 ---
 
-_ResideWell — Atlanta metro · Luxury multifamily resident wellness programming_
+## 7. Timeline
+
+| When      | What happens                                                             |
+| --------- | ------------------------------------------------------------------------ |
+| Week 0    | Kickoff call, space walkthrough, registration live, launch marketing out |
+| Weeks 1–2 | Classes begin, attendance tracked                                        |
+| Week 4    | Mid-pilot check-in — adjust format or time if needed                     |
+| Week 8    | Final class, feedback survey, engagement report, annual recommendation   |
+
+Kickoff approximately 2 weeks after agreement.
+
+---
+
+## 8. Success metrics
+
+| Metric                   | What it tells you                |
+| ------------------------ | -------------------------------- |
+| Attendance per class     | Are residents showing up?        |
+| Unique residents reached | How many households participated |
+| Repeat attendance        | Is it becoming a habit?          |
+| Resident feedback score  | Do residents want more?          |
+
+Reported at week 4 and week 8 — honestly, with recommendations either way.
+
+---
+
+## 9. Investment
+
+### $4,000 — all-inclusive
+
+8 weeks · weekly live programming · registration, tracking, marketing, and reporting included.
+
+At a [250]-unit community, that's about **$2 per unit per week** — typically less than a single catered resident event per month.
+
+**Payment:** 50% on signing · 50% at week 4.
+
+---
+
+## 10. Next step
+
+Reply to confirm, or grab 15 minutes to finalize the schedule and kickoff date: [Calendar link]
+
+[Your Name] · Founder, ResideWell
+[Phone] · [Email]
+
+---
+
+_ResideWell — turnkey wellness programming for Class A communities. Atlanta metro._

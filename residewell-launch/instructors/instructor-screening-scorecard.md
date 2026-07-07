@@ -13,7 +13,7 @@
 | 1   | Certified + insured (or will obtain before first class)? | Yes  | No → decline              |
 | 2   | Available for same day/time for 8 consecutive weeks?     | Yes  | No → backup only          |
 | 3   | Taught non-studio or mixed-level before?                 | Yes  | No experience → interview |
-| 4   | Rate ≤ $125/class for standard formats?                  | Yes  | No → negotiate or pass    |
+| 4   | Rate ≤ $85/class for standard formats?                   | Yes  | No → negotiate or pass    |
 | 5   | Responsive communication (replied within 24 hr)?         | Yes  | No → pass                 |
 
 **4–5 pass** → 15-min video call. **3 pass** → backup roster. **<3** → decline politely.
@@ -96,19 +96,19 @@ _Non-negotiable for assignment: must have insurance before teaching._
 
 ### 7. Rate Alignment (1–5)
 
-| Score | Criteria                                                |
-| ----- | ------------------------------------------------------- |
-| 5     | Rate within budget ($75–$125/class depending on format) |
-| 4     | Slightly above but negotiable                           |
-| 3     | Above budget — possible for premium formats only        |
-| 2     | Significantly above budget                              |
-| 1     | Rate unrealistic for market                             |
+| Score | Criteria                                               |
+| ----- | ------------------------------------------------------ |
+| 5     | Rate within budget ($65–$85/class depending on format) |
+| 4     | Slightly above but negotiable                          |
+| 3     | Above budget — possible for premium formats only       |
+| 2     | Significantly above budget                             |
+| 1     | Rate unrealistic for market                            |
 
 **Budget guide (pilot stage):**
 
-- Yoga / Pilates: $75–$100/class
-- Strength / HIIT: $85–$125/class
-- Premium / specialty: $100–$150/class
+- Yoga / Pilates: $65–$80/class
+- Strength / HIIT: $70–$85/class
+- Premium / specialty: above $85 only with margin check (45%+ target)
 
 ---
 

@@ -39,7 +39,7 @@ Happy to — short version:
 
 ResideWell runs **live resident wellness programming** at luxury apartment communities — classes in your existing amenity spaces, plus registration, attendance tracking, and reporting. Your team approves and promotes; we operate everything else.
 
-Most properties start with an **8-week pilot** — 2 classes/week, $4,000 all-in — to test attendance before any annual commitment.
+Most properties start with an **8-week paid pilot** — 1 live class per week, launch marketing, registration, attendance tracking, and a final engagement report — **$4,000 all-in**.
 
 Easier to cover in 15 minutes than over email. I have:
 
@@ -95,7 +95,7 @@ What's the best number to reach you? And is there anyone else from [Property Nam
 
 Hi [First Name],
 
-Standard **8-week pilot** is **$4,000 all-inclusive** — 2 live classes per week, registration, attendance reporting, and marketing assets. Your team's lift is about an hour a week.
+The **8-week pilot** is **$4,000 all-inclusive** — 1 live class per week, launch marketing, resident registration, attendance tracking, feedback survey, and a final engagement report. At a 250-unit community that's about $2 per unit per week, and your team's lift is under an hour a week.
 
 Happy to walk through what's included and what success looks like at [Property Name] — 15 minutes. [Calendar link] or [two time options].
 
@@ -154,7 +154,7 @@ Best,
 ## After Call Is Booked — Prep (5 min)
 
 - [ ] Re-read property website amenities page
-- [ ] Read Personalization Hook + Notes in CRM
+- [ ] Read Outreach Angle + Notes in CRM
 - [ ] Prepare 2 discovery questions specific to their property
 - [ ] Open `discovery-call-script.md`
 - [ ] Pilot PDF ready to attach in follow-up email

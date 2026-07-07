@@ -45,9 +45,9 @@ I'm [Your Name], founder of ResideWell. We partner with Class A apartment commun
 I'm recruiting instructors for recurring paid class slots starting [month]. Details:
 
 - **Format:** [Yoga / Pilates / Strength] — 45–60 min classes
-- **Frequency:** 1–2 classes per week (recurring)
+- **Frequency:** 1 class per week (recurring weekly slot)
 - **Locations:** [Buckhead, Midtown, Alpharetta, etc.]
-- **Pay:** $75–$125 per 45–60 min class (confirm rate on 15-min screen)
+- **Pay:** $65–$85 per 45–60 min class (confirm rate on 15-min screen)
 - **You bring:** Certification, insurance, reliability, resident-friendly energy
 
 We're not a studio — classes are for residents in their building. Mixed levels, smaller groups (8–15), premium environment.
@@ -100,7 +100,7 @@ Quick overview:
 - We handle scheduling, property communication, and resident registration
 - You show up on time, teach a great class, pack up clean
 
-Pay range: **$75–$125 per class** depending on format and experience. We'll confirm on our intro call.
+Pay range: **$65–$85 per class** depending on format and experience. We'll confirm on our intro call.
 
 Talk soon,
 [Your Name]

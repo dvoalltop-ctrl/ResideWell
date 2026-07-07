@@ -130,7 +130,7 @@ Thanks for the conversation today. I appreciated learning about [one specific th
 
 As discussed, I'm attaching our **8-Week Resident Wellness Pilot** overview for [Property Name]. Key highlights:
 
-- 2 live classes per week in your amenity spaces
+- 1 live class per week in your amenity spaces
 - Full registration, attendance, and reporting
 - $4,000 for 8 weeks — your team's lift is minimal
 

@@ -1,105 +1,83 @@
 # LinkedIn Outreach Sequence
 
-**Week 1 goal:** Support Email 1 — not replace it. **10 touches/week.** Every message should make a 15-minute discovery call easy to say yes to.
+> **Goal:** Support Email 1 — every message makes a **15-minute discovery call** easy to say yes to.
 
-**Order:** Email 1 first. LinkedIn same day or day after to the same contact (if connected or request pending).
+**Cadence:** 10 touches/week. Email 1 first; LinkedIn same day or next day to the same contact.
 
----
-
-## Connection Request (300 characters max)
-
-**Option A — Property-specific:**
-
-> Hi [First Name] — I work with luxury apartment communities in Atlanta on resident wellness and amenity activation. I noticed [Property Name] and would love to connect. — [Your Name]
-
-**Option B — Role-specific:**
-
-> Hi [First Name] — I'm building ResideWell, focused on resident experience programming for Class A multifamily in Atlanta. Would value connecting with leaders in your space. — [Your Name]
-
-**Option C — Mutual context:**
-
-> Hi [First Name] — I saw your work at [Management Company / Property Name] and am researching how top communities approach resident programming. Would love to connect. — [Your Name]
+**Profile first:** headline should read — _Founder, ResideWell | Amenity Activation & Resident Experience for Class A Communities._
 
 ---
 
-## First Message After Connection
+## 1. Connection request (under 300 characters — no pitch)
 
-_Send within 24 hours. Goal: book discovery call — not send PDF._
+**Option A — property-specific:**
+
+> Hi [First Name] — I work with Class A communities in Atlanta on amenity activation and resident engagement. [Property Name] caught my attention while researching [Submarket]. Would value connecting. — [Your Name]
+
+**Option B — role-specific:**
+
+> Hi [First Name] — I'm building ResideWell, focused on resident experience programming for Class A communities in Atlanta. Would value connecting with leaders in multifamily. — [Your Name]
+
+---
+
+## 2. First message after connection (within 24 hours)
 
 Hi [First Name],
 
-Thanks for connecting. I reached out because [Property Name] stood out for [one line from Personalization Hook].
+Thanks for connecting. [Property Name] stood out because [one line from your CRM Outreach Angle].
 
-I help Class A communities run resident wellness programming without adding work to the property team — curious how you handle that today at [Property Name].
+ResideWell helps Class A communities activate underused amenity spaces with turnkey wellness programming — we handle instructors, resident marketing, registration, attendance tracking, and reporting, so it's low-lift for your onsite team.
 
-Worth 15 minutes? I have [day/time] or [day/time] open: [calendar link]
+Curious how you approach resident engagement at [Property Name] today. Worth 15 minutes? I have [day/time] or [day/time]: [calendar link]
 
 — [Your Name]
 
 ---
 
-## Follow-Up Message
-
-_Send 5–7 days later if no reply._
+## 3. Follow-up message (5–7 days later)
 
 Hi [First Name],
 
-Quick follow-up — I know inboxes get buried.
+Quick bump — I know inboxes bury things.
 
-One thing we're hearing from property teams in Atlanta: residents want more than a gym. They want community and programming, but the on-site team doesn't have bandwidth to run it consistently.
+One thing we hear from onsite teams: residents want programming, but nobody has the hours to run it consistently every week. That's exactly the gap ResideWell covers.
 
-That's the gap ResideWell fills — we operate the programming layer so your team can focus on leasing and operations.
-
-If a 15-minute call would be useful, I'm happy to share how we structure an 8-week pilot. No pressure if timing isn't right.
+If a short call would be useful, here's my calendar: [link]. If the timing's off, no problem at all.
 
 — [Your Name]
 
 ---
 
-## Pilot Offer Message
-
-_Send after a positive reply or warm conversation._
+## 4. Pilot offer message (after a warm reply)
 
 Hi [First Name],
 
-Great speaking with you [earlier / last week]. As discussed, here's the short version of our **8-Week Resident Wellness Pilot**:
+Great connecting. Short version of our **8-week paid pilot** for [Property Name]:
 
-**What you get:**
+- 1 live class per week in your amenity space, launch marketing included
+- Resident registration QR code, attendance tracking, feedback survey
+- Final engagement report + annual program recommendation
+- **$4,000 all-inclusive** — your team's lift is under an hour a week
 
-- 2 live classes per week (yoga, Pilates, strength, or mix — your choice)
-- Resident registration, reminders, and attendance tracking
-- Monthly engagement report
-- Promotional assets for your channels
-
-**What your team does:**
-
-- Approve schedule and spaces
-- Share registration link with residents
-- Provide amenity access on class days
-
-**Investment:** $4,000 for 8 weeks, all-inclusive
-
-I can send a one-page overview and proposal for [Property Name] if helpful. Would [day] or [day] work for a quick follow-up call?
+I can send a one-page overview, or we can walk through it in 15 minutes — [day] or [day]?
 
 — [Your Name]
-[Phone]
-[Email]
+[Phone] · [Email]
 
 ---
 
-## LinkedIn Best Practices
+## Targeting order
 
-1. **Profile first:** Before outreach, ensure your LinkedIn headline says something like: _Founder, ResideWell | Resident Wellness & Amenity Activation for Luxury Multifamily_
-2. **One property per message:** Don't mention you're emailing 50 properties.
-3. **No attachments in first message:** Offer to send the one-pager after they reply.
-4. **Track in CRM:** Status → LinkedIn Sent; note which message stage you're on.
-5. **Engage lightly:** Like or comment on their posts before connecting (optional, 1–2 interactions).
+1. Community / Property Manager (onsite)
+2. Regional Manager / VP of Operations (decision-maker)
+3. Director of Resident Experience (if the role exists)
 
----
+## Rules
 
-## If They Don't Accept Connection
-
-- Try email outreach (see `property-outreach-email-sequence.md`)
-- Try calling the property (see `phone-call-script.md`)
-- Find regional manager at management company level
-- Mark CRM: Notes → "LinkedIn connection pending — email sent [date]"
+| #   | Rule                                                                    |
+| --- | ----------------------------------------------------------------------- |
+| 1   | No pitch in the connection request                                      |
+| 2   | No attachments in the first message — offer the one-pager after a reply |
+| 3   | One property per message — never mention your list                      |
+| 4   | Log every touch in CRM: Status, Last Contact, Next Follow-Up            |
+| 5   | Connection not accepted after 7 days → rely on email + phone            |
