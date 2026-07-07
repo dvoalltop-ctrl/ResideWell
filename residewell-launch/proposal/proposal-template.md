@@ -1,6 +1,8 @@
 # Proposal Template
 
-Copy this into Google Docs or Notion, customize `[brackets]`, export to PDF, and send within 24 hours of discovery call.
+> **Use only after a discovery call.** Week 1: the one-pager PDF (`8-week-pilot-one-pager.md`) is enough for most pilots. This template is for properties that need a named proposal document.
+
+Copy into Google Docs, customize `[brackets]`, export PDF, send within 24 hours of discovery call.
 
 ---
 

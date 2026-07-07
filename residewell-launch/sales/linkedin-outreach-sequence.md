@@ -1,12 +1,8 @@
 # LinkedIn Outreach Sequence
 
-**How to use:** Connect with property managers and regional managers at target properties. Personalize every `[bracket]`. Update CRM after each touch.
+**Week 1 goal:** Support Email 1 — not replace it. **10 touches/week.** Every message should make a 15-minute discovery call easy to say yes to.
 
-**Who to target (in order):**
-1. Community / Property Manager (on-site)
-2. Regional Manager / VP of Operations (decision-maker)
-3. Director of Resident Experience / Lifestyle (if role exists)
-4. Marketing Manager at management company (influencer)
+**Order:** Email 1 first. LinkedIn same day or day after to the same contact (if connected or request pending).
 
 ---
 
@@ -25,17 +21,15 @@
 
 ## First Message After Connection
 
-*Send within 24–48 hours of acceptance. Do not pitch in the connection request.*
+*Send within 24 hours. Goal: book discovery call — not send PDF.*
 
 Hi [First Name],
 
-Thanks for connecting. I'm [Your Name], founder of ResideWell — we help luxury apartment communities turn underused amenity spaces into consistent resident wellness experiences (live classes, events, registration, reporting) without adding operational burden to the property team.
+Thanks for connecting. I reached out because [Property Name] stood out for [one line from Personalization Hook].
 
-I've been researching Class A communities in [Buckhead / Midtown / etc.] and [Property Name] stood out because [specific observation: amenity space, reviews, positioning].
+I help Class A communities run resident wellness programming without adding work to the property team — curious how you handle that today at [Property Name].
 
-I'm not pitching anything today — just curious: how does your team currently approach resident events and amenity programming? Is that something you own, or does it sit with a regional team?
-
-Either way, appreciate any insight.
+Worth 15 minutes? I have [day/time] or [day/time] open: [calendar link]
 
 — [Your Name]
 

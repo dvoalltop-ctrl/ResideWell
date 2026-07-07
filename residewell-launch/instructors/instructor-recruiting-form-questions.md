@@ -1,6 +1,10 @@
 # Instructor Recruiting Form Questions
 
-Use these questions in Google Forms, Typeform, or Airtable. Copy the sections below directly into your form builder.
+**When to create:** After **10 property outreach emails** sent. Takes 20 min in Google Forms.
+
+**Why not before:** Instructor roster is delivery risk, not sales risk. Book discovery calls first. You need 2–3 backup instructors per format before kickoff — not 20 before first call.
+
+Use these questions in Google Forms or Typeform.
 
 **Form title:** ResideWell Instructor Application — Atlanta Metro  
 **Form description:** ResideWell partners with luxury apartment communities to deliver resident wellness programming. We're recruiting professional instructors for paid recurring class opportunities in Buckhead, Midtown, and North Atlanta. Complete this form if you have 2+ years teaching experience and can commit to a consistent weekly schedule.

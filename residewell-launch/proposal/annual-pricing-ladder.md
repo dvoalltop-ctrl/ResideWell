@@ -1,6 +1,6 @@
 # Annual Pricing Ladder
 
-Use after a successful 8-week pilot or when a property wants to skip the pilot and commit annually (rare in early stage — default to pilot first).
+> **Do not use in cold outreach or discovery calls.** Sell the $4,000 pilot first. This doc is for post-pilot conversion conversations only.
 
 ---
 

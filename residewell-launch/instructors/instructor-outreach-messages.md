@@ -1,6 +1,10 @@
 # Instructor Outreach Messages
 
-**Goal:** Recruit 20 local instructors this week. Personalize `[brackets]`. Send via Instagram DM, email, or LinkedIn.
+**Week 1 gate:** Do not send until **10 property emails** are sent. Then send **5 messages max** — you need backup roster, not a full agency.
+
+**Goal:** 2–3 qualified instructors per format (yoga, Pilates, strength) before pilot kickoff — not 20 instructors before first discovery call.
+
+Personalize `[brackets]`. Send via Instagram DM, email, or LinkedIn.
 
 ---
 
@@ -29,7 +33,7 @@ I'm recruiting instructors for recurring paid class slots starting [month]. Deta
 - **Format:** [Yoga / Pilates / Strength] — 45–60 min classes
 - **Frequency:** 1–2 classes per week (recurring)
 - **Locations:** [Buckhead, Midtown, Alpharetta, etc.]
-- **Pay:** [$X per class — set your rate after screening]
+- **Pay:** $75–$125 per 45–60 min class (confirm rate on 15-min screen)
 - **You bring:** Certification, insurance, reliability, resident-friendly energy
 
 We're not a studio — classes are for residents in their building. Mixed levels, smaller groups (8–15), premium environment.
@@ -81,7 +85,7 @@ Quick overview:
 - We handle scheduling, property communication, and resident registration
 - You show up on time, teach a great class, pack up clean
 
-Pay range for our pilots: **$[75–125]+ per class** depending on format and experience. We'll confirm rate on our intro call.
+Pay range: **$75–$125 per class** depending on format and experience. We'll confirm on our intro call.
 
 Talk soon,
 [Your Name]
@@ -104,14 +108,17 @@ Reply with what works, or send your availability.
 
 ---
 
-## Outreach Tracker (20 instructors this week)
+## Outreach Tracker (5 instructors week 1 — expand after discovery call booked)
 
-| # | Name | Format | Channel | Date Sent | Replied | Status |
-|---|------|--------|---------|-----------|---------|--------|
+| # | Name | Format | Channel | Date Sent | Replied | Screened? |
+|---|------|--------|---------|-----------|---------|-----------|
 | 1 | | | | | | |
 | 2 | | | | | | |
-| ... | | | | | | |
-| 20 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+
+**Expand to 15–20** only after 1 discovery call completed or verbal pilot interest.
 
 **Where to find instructors:**
 - Instagram: #atlantayoga #atlpilates #atlfitnessinstructor

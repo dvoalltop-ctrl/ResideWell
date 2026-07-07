@@ -1,11 +1,10 @@
 # Discovery Call Script
 
-**Goal:** 15 minutes. Qualify fit, understand pain, earn permission to send pilot proposal.
+**Goal:** 15 minutes → permission to send one-pager → book follow-up OR verbal interest in pilot.
 
-**Before the call:**
-- [ ] Review property website and CRM notes (5 min)
-- [ ] Note 2 specific amenities or observations
-- [ ] Have pilot one-pager ready to send immediately after call
+**Not the goal:** Explain every feature, discuss annual pricing, or close on the call.
+
+**After call:** Thank-you + PDF within 2 hours (`discovery-call-booking.md` SLA). Proposal within 24 hr if qualified.
 
 ---
 

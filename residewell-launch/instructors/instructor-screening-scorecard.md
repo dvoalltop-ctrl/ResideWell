@@ -1,10 +1,26 @@
 # Instructor Screening Scorecard
 
-Score each applicant **1–5** on criteria below. **Minimum 3.5 average** to advance to video interview. **Minimum 4.0** for pilot assignment.
+**Week 1:** Use **Quick Screen** (4 questions) below. Full 8-criteria score only before assigning to a paid pilot.
+
+**Target before kickoff:** 2 yoga + 1 Pilates + 1 strength — all Quick Screen pass + insurance on file.
 
 ---
 
-## Scoring Criteria
+## Quick Screen (5 min — use week 1)
+
+| # | Question | Pass | Fail |
+|---|----------|------|------|
+| 1 | Certified + insured (or will obtain before first class)? | Yes | No → decline |
+| 2 | Available for same day/time for 8 consecutive weeks? | Yes | No → backup only |
+| 3 | Taught non-studio or mixed-level before? | Yes | No experience → interview |
+| 4 | Rate ≤ $125/class for standard formats? | Yes | No → negotiate or pass |
+| 5 | Responsive communication (replied within 24 hr)? | Yes | No → pass |
+
+**4–5 pass** → 15-min video call. **3 pass** → backup roster. **<3** → decline politely.
+
+---
+
+## Full Score (before pilot assignment)
 
 ### 1. Certification & Experience (1–5)
 

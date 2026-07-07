@@ -1,6 +1,12 @@
 # Follow-Up Sequence
 
-**When to use:** After discovery call, after sending proposal, or when a lead goes quiet. Adjust timing based on their stated timeline.
+**Primary goal:** Get a **discovery call on the calendar** or a **signed pilot** — not endless "checking in."
+
+**SLAs:**
+- Reply to prospect: **4 hours**
+- Post-discovery thank-you + PDF: **2 hours**
+- Post-discovery proposal (if needed): **24 hours**
+- Proposal follow-up: day 3, 7, 14
 
 ---
 

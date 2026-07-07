@@ -1,12 +1,43 @@
 # Property Research Scorecard
 
-Score each property **1–5** on eight criteria below. Add the scores and divide by 8 for your **Fit Score** (round to nearest whole number or use one decimal).
+**Week 1:** Use **Quick Score only** (3 minutes). Full scorecard is for prioritizing your second 35 properties.
 
-**Target:** 50 properties researched. Prioritize properties scoring **4.0+** for first-wave outreach.
+**Target week 1:** 15 properties researched, 15 with Quick Score ≥ 3, top 10 with verified contacts get Email 1.
 
 ---
 
-## Scoring Criteria
+## Quick Score (3 min — use this first)
+
+Answer three questions. Add points. Use **Quick Score** column in CRM.
+
+| Question | 0 pts | 1 pt | 2 pts |
+|----------|-------|------|-------|
+| **A. Size & class** — Unit count + Class A? | <150 units or not luxury | 150–249 Class A or 250+ A- | 250+ Class A |
+| **B. Activation potential** — Usable space beyond basic gym? | Gym only | Gym + lounge/courtyard/pool deck | Dedicated studio/rooftop + gym |
+| **C. Reachability** — Can you find a verified contact in 15 min? | No contact path | PM on LinkedIn only | PM email or LinkedIn + regional visible |
+
+**Quick Score = A + B + C (max 6)**
+
+| Quick Score | Action |
+|-------------|--------|
+| **5–6** | Research contacts today → Email 1 this week |
+| **4** | Add to CRM → contact after top tier |
+| **2–3** | Park — revisit week 3 |
+| **0–1** | Skip |
+
+**Personalization Hook:** Write one sentence immediately after Quick Score (see `week-1-crm-setup.md`).
+
+---
+
+## Full Fit Score (optional — use after 15 properties)
+
+Score each property **1–5** on eight criteria below. Add the scores and divide by 8 for **Fit Score** (use `Fit Score` column).
+
+Prioritize properties scoring **4.0+** for portfolio expansion conversations.
+
+---
+
+## Full Scoring Criteria
 
 ### 1. Unit Count (1–5)
 
@@ -129,38 +160,20 @@ Fit Score = (Sum of 8 criteria scores) ÷ 8
 
 ---
 
-## Property Research Workflow (30 min per property)
+## Property Research Workflow (15 min per property — week 1)
 
-Use this checklist every time you add a row to the CRM.
+### Quick path (use this)
+- [ ] Google property + confirm Class A + unit count (3 min)
+- [ ] Amenities page → note gym + best activation space (3 min)
+- [ ] Quick Score A+B+C → log in CRM (2 min)
+- [ ] Write Personalization Hook (2 min)
+- [ ] Find PM on LinkedIn → verify contact (5 min)
+- [ ] If Quick Score ≥ 4 and Contact Verified → queue Email 1
 
-### Step 1: Find the property (5 min)
-- [ ] Google: `"luxury apartments" + [submarket]`
-- [ ] Check Apartments.com, Zillow, property website
-- [ ] Confirm Class A signals and unit count
-
-### Step 2: Amenity audit (5 min)
-- [ ] Walk through website amenity page
-- [ ] Note: fitness center, studio, rooftop, pool, lounge, courtyard
-- [ ] Screenshot or note underused spaces
-
-### Step 3: Events & reviews (5 min)
-- [ ] Check property Instagram / Facebook
-- [ ] Read 10–15 recent Google reviews
-- [ ] Note event mentions and pain points
-
-### Step 4: Management & contacts (10 min)
-- [ ] Identify management company (website footer, listing sites)
-- [ ] LinkedIn: search `"[property name]" + community manager`
-- [ ] LinkedIn: search `"[management company]" + regional manager + Atlanta`
-- [ ] Call leasing office only if needed: *"Who manages resident events and amenities?"*
-- [ ] **Do not guess emails** — use LinkedIn or verified patterns
-
-### Step 5: Score & log (5 min)
-- [ ] Score all 8 criteria
-- [ ] Calculate Fit Score
-- [ ] Set Priority Level and Status = `Researching` or `Not Contacted`
-- [ ] Write 1-sentence Likely Pain Point
-- [ ] Add to CRM
+### Skip for week 1
+- Full 8-criteria Fit Score (do later)
+- Ownership company research
+- Regional contact (unless PM not findable)
 
 ---
 
