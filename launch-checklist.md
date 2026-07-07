@@ -8,6 +8,7 @@ Use this before sharing the site with property managers or linking it in outreac
 - [ ] Add Calendly link if available (update primary CTAs in `index.html`)
 - [ ] Add founder name to founder note section if desired
 - [ ] Confirm all CTA buttons point to the correct destination (#contact, Calendly, or form)
+- [ ] Primary CTA is "Book a 15-Minute Call" across nav, hero, pilot, and mobile bar
 - [ ] Replace mailto form with Formspree, Netlify Forms, Tally, or HubSpot
 
 ## Content & Assets

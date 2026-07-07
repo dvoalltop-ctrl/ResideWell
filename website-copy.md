@@ -8,9 +8,9 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 
 **Title:** ResideWell | Resident Wellness Programming for Luxury Apartments
 
-**Meta description:** ResideWell helps luxury apartment communities activate amenity spaces with turnkey wellness classes, resident events, marketing support, attendance tracking, and reporting.
+**Meta description:** ResideWell helps luxury apartment communities activate amenity spaces with turnkey resident programming — classes, registration, attendance tracking, and reporting. 8-week pilot, $4,000. Metro Atlanta.
 
-**Open Graph description:** Turn underused apartment amenities into resident experiences worth renewing for. Serving Metro Atlanta and North Atlanta luxury multifamily communities.
+**Open Graph description:** Turnkey amenity activation for luxury multifamily — 8-week pilot, one live class per week, reporting included. Serving Metro Atlanta and North Atlanta.
 
 ---
 
@@ -20,7 +20,7 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 
 **Links:** How It Works · Pilot Program · Programs · Contact
 
-**CTA:** Request a Pilot
+**CTA:** Book a 15-Min Call
 
 ---
 
@@ -28,15 +28,22 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 
 **Eyebrow:** Resident Experience & Amenity Activation
 
-**Headline:** Turn underused apartment amenities into resident experiences worth renewing for.
+**Headline:** Turnkey resident programming for luxury apartment amenities.
 
-**Subheadline:** ResideWell helps luxury apartment communities activate fitness centers, rooftops, lounges, courtyards, and wellness spaces with turnkey resident programming — without adding work to the onsite team.
+**Subheadline:** ResideWell is a B2B amenity activation partner for Class A communities. We run live wellness programming in your fitness centers, rooftops, lounges, and courtyards — with registration, attendance tracking, and reporting included. Your team approves and promotes. We operate.
 
-**Primary CTA:** Request an 8-Week Pilot
+**Pilot offer strip:**
 
-**Secondary CTA:** See What We Handle
+- 8 weeks — Fixed pilot
+- 1 class/week — In your spaces
+- $4,000 — All-inclusive
+- <1 hr/week — Your team's lift
 
-**Trust line:** Built for Class A multifamily communities, lease-ups, and professionally managed apartment portfolios.
+**Primary CTA:** Book a 15-Minute Call
+
+**Secondary CTA:** Review the 8-Week Pilot
+
+**Trust line:** For property managers, regional managers, and operators at Class A multifamily communities in Metro Atlanta and North Atlanta.
 
 ---
 
@@ -58,13 +65,21 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 
 ---
 
-## Solution
+## Solution + How It Works
 
 **Section label:** The Solution
 
 **Headline:** ResideWell makes resident wellness programming turnkey.
 
-**Body:** We plan, staff, promote, track, and report on wellness experiences that help apartment communities create a more active, connected, and premium resident experience.
+**Body:** We plan, staff, promote, track, and report on resident experiences that help apartment communities create a more connected, premium living environment — without adding operational burden to your onsite team.
+
+**Positioning note:** This is not a gym, a personal training brand, or a resident app. It is a professional amenity activation service for property teams.
+
+**Steps:**
+
+1. **You approve and promote** — Confirm the schedule, share the registration link with residents, and provide amenity access.
+2. **We plan and operate** — Instructors, class programming, resident marketing copy, registration, and day-of coordination.
+3. **You receive clear reporting** — Attendance data, resident feedback, and engagement summaries you can share with ownership.
 
 ---
 
@@ -78,14 +93,14 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 
 **Cards:**
 
-1. **Class programming** — Curated weekly wellness classes tailored to your amenity spaces and resident profile.
-2. **Instructor sourcing** — Vetted instructors, scheduling, and backup coverage so classes run consistently.
+1. **Resident programming** — Weekly wellness classes and events tailored to your amenity spaces and resident profile.
+2. **Instructor sourcing** — Instructor scheduling and backup coverage so programming runs consistently.
 3. **Resident marketing copy** — Ready-to-send emails, portal posts, and signage to drive registration.
-4. **Registration support** — Simple QR-code registration workflow residents can use in seconds.
-5. **Attendance tracking** — Reliable headcounts and participation data your team can share with ownership.
+4. **Registration support** — Simple QR-code registration workflow residents can use on their phone.
+5. **Attendance tracking** — Headcounts and participation data your team can share with ownership.
 6. **Resident feedback** — Structured surveys to capture satisfaction and guide program adjustments.
-7. **Monthly reporting** — Clear engagement summaries property and regional teams can act on.
-8. **Program optimization** — Ongoing refinements based on attendance, feedback, and property goals.
+7. **Monthly reporting** — Engagement summaries property and regional teams can act on.
+8. **Program optimization** — Refinements based on attendance, feedback, and property goals.
 
 ---
 
@@ -95,7 +110,11 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 
 **Headline:** Start with an 8-week Resident Wellness Pilot.
 
-**Lead:** A structured, low-risk way to test resident interest, activate existing spaces, and gather real engagement data before any long-term commitment.
+**Lead:** A fixed-scope, paid pilot to test resident interest, activate existing spaces, and gather engagement data before any annual commitment. Most properties begin here.
+
+**Price:** $4,000 all-inclusive
+
+**Team lift:** Approve the schedule, share the registration link, and provide amenity access — typically under one hour per week.
 
 **Includes:**
 
@@ -105,12 +124,12 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 - QR-code registration workflow — Simple sign-up residents can complete on their phone
 - Attendance tracking — Weekly participation data throughout the pilot
 - Resident feedback survey — Structured input to guide next steps
-- Final engagement summary — Clear report for property and ownership review
-- Annual program recommendation — Data-backed guidance on what to do after week 8
+- Final engagement summary — Report for property and ownership review
+- Annual program recommendation — Guidance on next steps based on pilot results
 
-**Pricing:** Pilot programs typically start at **$4,000**, with lean and premium options available based on property size, schedule, and event needs.
+**Note:** Lean and premium pilot options are available based on property size, schedule, and event needs. Scope and pricing are confirmed on a 15-minute discovery call.
 
-**CTA:** Request Pilot Details
+**CTA:** Book a 15-Minute Call
 
 ---
 
@@ -120,7 +139,7 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 
 **Headline:** Annual resident wellness programs
 
-**Lead:** Scale what works with ongoing programming designed for luxury multifamily properties in Metro Atlanta and North Atlanta.
+**Lead:** Most properties start with the 8-week pilot. Annual programs are available after week 8, when you have attendance data and a clear picture of resident interest.
 
 ### Essential — Starting at $1,250/month
 
@@ -129,7 +148,7 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 - Attendance tracking
 - Monthly summary
 
-### Standard — Starting at $1,800/month *(Most Popular)*
+### Standard — Starting at $1,800/month
 
 - 2 classes per week
 - Quarterly resident wellness events
@@ -145,6 +164,8 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 - Premium reporting
 - Portfolio support available
 
+**Note:** Annual pricing is discussed after your pilot, or on a discovery call if you ask. The pilot is the recommended starting point.
+
 ---
 
 ## Why Property Teams Like This
@@ -158,7 +179,7 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 1. **Low lift for onsite staff** — Approve the schedule, share the registration link, and provide amenity access. We handle the rest.
 2. **Better use of existing amenities** — Activate fitness centers, rooftops, lounges, and courtyards you have already invested in.
 3. **More resident engagement** — Consistent programming gives residents a reason to connect — not just renew.
-4. **Stronger leasing tour story** — Live wellness programming is a differentiator prospects can see and feel on tour.
+4. **Stronger leasing tour story** — Live programming is a differentiator prospects can see on tour.
 5. **Reporting property teams can share with ownership** — Attendance data and engagement summaries that support retention conversations.
 6. **Flexible programming by property type** — Schedules and formats adapted to your spaces, resident profile, and portfolio goals.
 
@@ -189,7 +210,7 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 
 **Headline:** Founder note
 
-**Copy:** ResideWell is founder-led and built around professional service, clear communication, and operational follow-through. Our goal is to make resident wellness programming feel easy for property teams and valuable for residents.
+**Copy:** ResideWell is founder-led and built around professional service, clear communication, and operational follow-through. We work as an operating partner for property teams — not a vendor that disappears after launch. Our goal is to make resident wellness programming feel easy for your team and valuable for residents.
 
 ---
 
@@ -197,13 +218,25 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 
 **Section label:** Get in Touch
 
-**Headline:** Want to test resident wellness programming at your property?
+**Headline:** Book a 15-minute call about the 8-week pilot.
 
-**Body:** Start with a simple 8-week pilot designed to measure resident interest, activate existing amenity spaces, and give your team a clear path forward.
+**Body:** Tell us about your property and amenity spaces. We will walk through pilot scope, your team's lift, and whether the program is a fit — no pressure, no long sales process.
 
-**Form fields:** Name · Email · Property Name · Property Location · Message
+**Call points:**
 
-**Submit CTA:** Request Pilot Information
+- 15-minute discovery call
+- 8-week pilot overview and scope
+- Clear next steps if it is a fit
+
+**Email fallback:** hello@residewell.com
+
+**Form heading:** Request pilot information
+
+**Form fields:** Name · Email · Property Name · Property Location · Message (optional)
+
+**Submit CTA:** Send Pilot Request
+
+**Helper text:** We typically respond within one business day.
 
 ---
 
@@ -220,3 +253,5 @@ All final website copy in one place. Edit here, then sync changes to `index.html
 **Links:** How It Works · Pilot Program · Programs · Contact
 
 **Copyright:** © 2026 ResideWell. All rights reserved.
+
+**Mobile sticky CTA:** Book a 15-Min Call

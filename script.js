@@ -13,6 +13,8 @@
   var siteNav = document.querySelector(".site-nav");
   var contactForm = document.getElementById("contact-form");
   var yearEl = document.getElementById("year");
+  var mobileCtaBar = document.querySelector(".mobile-cta-bar");
+  var contactSection = document.getElementById("contact");
 
   /* Footer year */
   if (yearEl) {
@@ -53,7 +55,7 @@
         return;
       }
 
-      var subject = encodeURIComponent("Pilot Information Request — " + propertyName);
+      var subject = encodeURIComponent("8-Week Pilot Inquiry — " + propertyName);
       var bodyLines = [
         "Name: " + name,
         "Email: " + email,
@@ -68,6 +70,19 @@
 
       window.location.href = mailtoUrl;
     });
+  }
+
+  /* Hide mobile CTA bar when contact section is visible */
+  if (mobileCtaBar && contactSection && "IntersectionObserver" in window) {
+    var ctaObserver = new IntersectionObserver(
+      function (entries) {
+        entries.forEach(function (entry) {
+          mobileCtaBar.classList.toggle("is-hidden", entry.isIntersecting);
+        });
+      },
+      { threshold: 0.15 }
+    );
+    ctaObserver.observe(contactSection);
   }
 
   /* Smooth scroll offset for sticky header */
