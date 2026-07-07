@@ -1,0 +1,8 @@
+{
+  "printWidth": 88,
+  "proseWrap": "preserve",
+  "tabWidth": 2,
+  "useTabs": false,
+  "singleQuote": false,
+  "htmlWhitespaceSensitivity": "css"
+}
