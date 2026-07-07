@@ -1,10 +1,15 @@
 # Discovery Call Script
 
-**Goal:** 15 minutes → permission to send one-pager → book follow-up OR verbal interest in pilot.
+> **Goal:** 15 minutes → permission to send one-pager → verbal pilot interest or follow-up booked.
 
 **Not the goal:** Explain every feature, discuss annual pricing, or close on the call.
 
-**After call:** Thank-you + PDF within 2 hours (`discovery-call-booking.md` SLA). Proposal within 24 hr if qualified.
+| After call           | SLA      |
+| -------------------- | -------- |
+| Thank-you + PDF      | 2 hours  |
+| Proposal (if needed) | 24 hours |
+
+---
 
 ---
 
@@ -14,7 +19,7 @@
 >
 > I've got us down for 15 minutes. Does that still work for you?"
 
-*If they only have 10 minutes: "Perfect — I'll keep it tight."*
+_If they only have 10 minutes: "Perfect — I'll keep it tight."_
 
 ---
 
@@ -29,23 +34,27 @@
 Ask 5–7 of these. Listen more than you talk.
 
 ### Current State
+
 1. "How does your team handle resident events and programming today?"
 2. "Who owns that — on-site, regional, or a mix?"
 3. "What amenities get the most resident use? Which ones are quieter?"
 4. "Do residents ask for fitness classes, yoga, or wellness programming?"
 
 ### Pain & Priorities
+
 5. "What's hardest about keeping resident programming consistent?"
 6. "Is resident retention or amenity utilization something you're measured on?"
 7. "Have you tried fitness classes or wellness events before? How did it go?"
 8. "If you could wave a wand, what would resident community look like here?"
 
 ### Decision Process
+
 9. "When you bring in a new resident experience initiative, what does approval look like?"
 10. "Is there budget for pilot programs, or does everything need to go through corporate?"
 11. "Who else would need to be involved in a decision like this?"
 
 ### Timing
+
 12. "Is there a season or quarter when programming is especially important?"
 13. "If this were a fit, what timeline would you be thinking?"
 
@@ -64,6 +73,7 @@ Ask 5–7 of these. Listen more than you talk.
 ## Qualifying Fit
 
 **Green flags (proceed to proposal):**
+
 - Cares about retention, reviews, or amenity utilization
 - Has underused spaces (studio, rooftop, lounge)
 - Frustrated with inconsistent or staff-heavy events
@@ -71,11 +81,13 @@ Ask 5–7 of these. Listen more than you talk.
 - Timeline within 60 days
 
 **Yellow flags (nurture or educate):**
+
 - Interested but no budget until next fiscal year
 - Needs corporate approval — offer materials for internal champion
 - Already has part-time programming — position as upgrade/outsourced ops
 
 **Red flags (politely exit):**
+
 - No interest in resident programming at all
 - Expects free programming for residents with no budget
 - Wants you to pay rent for space
@@ -117,6 +129,7 @@ Hi [First Name],
 Thanks for the conversation today. I appreciated learning about [one specific thing they said].
 
 As discussed, I'm attaching our **8-Week Resident Wellness Pilot** overview for [Property Name]. Key highlights:
+
 - 2 live classes per week in your amenity spaces
 - Full registration, attendance, and reporting
 - $4,000 for 8 weeks — your team's lift is minimal

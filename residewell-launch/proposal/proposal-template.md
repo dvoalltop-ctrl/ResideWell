@@ -7,6 +7,7 @@ Copy into Google Docs, customize `[brackets]`, export PDF, send within 24 hours 
 ---
 
 # ResideWell Proposal
+
 ## 8-Week Resident Wellness Pilot — [Property Name]
 
 **Prepared for:** [Contact Name], [Title]  
@@ -30,26 +31,26 @@ Copy into Google Docs, customize `[brackets]`, export PDF, send within 24 hours 
 Based on our discovery call, this pilot will support:
 
 1. **[Objective 1 — from their words]**  
-   *Example: Increase utilization of the resident lounge and rooftop beyond move-in season.*
+   _Example: Increase utilization of the resident lounge and rooftop beyond move-in season._
 
 2. **[Objective 2]**  
-   *Example: Provide consistent weekly programming residents can plan around.*
+   _Example: Provide consistent weekly programming residents can plan around._
 
 3. **[Objective 3]**  
-   *Example: Generate attendance data for ownership on amenity ROI.*
+   _Example: Generate attendance data for ownership on amenity ROI._
 
 ---
 
 ## Proposed Program
 
-| Element | Detail |
-|---------|--------|
-| **Duration** | 8 weeks |
-| **Frequency** | 2 live classes per week (16 total) |
-| **Proposed schedule** | [e.g., Tuesday 6:30 PM + Saturday 9:00 AM] |
-| **Locations** | [e.g., Yoga studio + Rooftop] |
-| **Class mix** | [e.g., Vinyasa yoga, Pilates mat, total body strength] |
-| **Kickoff date** | [Proposed date — 2 weeks from signing] |
+| Element               | Detail                                                 |
+| --------------------- | ------------------------------------------------------ |
+| **Duration**          | 8 weeks                                                |
+| **Frequency**         | 2 live classes per week (16 total)                     |
+| **Proposed schedule** | [e.g., Tuesday 6:30 PM + Saturday 9:00 AM]             |
+| **Locations**         | [e.g., Yoga studio + Rooftop]                          |
+| **Class mix**         | [e.g., Vinyasa yoga, Pilates mat, total body strength] |
+| **Kickoff date**      | [Proposed date — 2 weeks from signing]                 |
 
 ---
 
@@ -77,39 +78,39 @@ Based on our discovery call, this pilot will support:
 
 ## Success Metrics
 
-| Metric | Target |
-|--------|--------|
-| Average attendance per class | [8–15 based on unit count] |
-| Unique residents participating | [5–10% of unit count] |
-| Repeat attendance rate | 30%+ return for 2+ classes |
-| Property team satisfaction | Minimal lift, weekly communication |
+| Metric                         | Target                             |
+| ------------------------------ | ---------------------------------- |
+| Average attendance per class   | [8–15 based on unit count]         |
+| Unique residents participating | [5–10% of unit count]              |
+| Repeat attendance rate         | 30%+ return for 2+ classes         |
+| Property team satisfaction     | Minimal lift, weekly communication |
 
 ---
 
 ## Investment
 
-| Item | Amount |
-|------|--------|
-| 8-Week Resident Wellness Pilot (Standard) | $4,000 |
-| **Total** | **$4,000** |
+| Item                                      | Amount     |
+| ----------------------------------------- | ---------- |
+| 8-Week Resident Wellness Pilot (Standard) | $4,000     |
+| **Total**                                 | **$4,000** |
 
 **Payment terms:** 50% ($2,000) on signing | 50% ($2,000) at week 4
 
-*Alternate tiers available: Lean ($3,500) | Premium ($5,000) — ask for details.*
+_Alternate tiers available: Lean ($3,500) | Premium ($5,000) — ask for details._
 
 ---
 
 ## Timeline
 
-| Milestone | Date |
-|-----------|------|
+| Milestone                            | Date   |
+| ------------------------------------ | ------ |
 | Proposal accepted / agreement signed | [Date] |
-| Kickoff call + space walkthrough | [Date] |
-| Registration link live | [Date] |
-| First class | [Date] |
-| Mid-pilot review | [Date] |
-| Final class | [Date] |
-| Final report delivered | [Date] |
+| Kickoff call + space walkthrough     | [Date] |
+| Registration link live               | [Date] |
+| First class                          | [Date] |
+| Mid-pilot review                     | [Date] |
+| Final class                          | [Date] |
+| Final report delivered               | [Date] |
 
 ---
 
@@ -133,7 +134,7 @@ Based on our discovery call, this pilot will support:
 
 ---
 
-*This proposal is valid for 30 days from the date above.*
+_This proposal is valid for 30 days from the date above._
 
 ---
 

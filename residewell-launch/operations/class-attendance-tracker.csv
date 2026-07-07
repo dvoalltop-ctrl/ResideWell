@@ -1,1 +1,2 @@
-Date,Property Name,Class Format,Instructor Name,Scheduled Time,Registered Count,Actual Attendance,Walk-Ins,No-Shows,Weather/Notes,Incident Y/N
+"Date","Property Name","Class Format","Instructor Name","Scheduled Time","Registered Count","Actual Attendance","Walk-Ins","No-Shows","Weather/Notes","Incident Y/N"
+"YYYY-MM-DD","[Property Name]","Yoga","[Instructor]","6:30 PM","12","9","1","3","","No"

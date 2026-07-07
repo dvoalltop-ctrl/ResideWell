@@ -9,19 +9,22 @@
 ## Connection Request (300 characters max)
 
 **Option A — Property-specific:**
+
 > Hi [First Name] — I work with luxury apartment communities in Atlanta on resident wellness and amenity activation. I noticed [Property Name] and would love to connect. — [Your Name]
 
 **Option B — Role-specific:**
+
 > Hi [First Name] — I'm building ResideWell, focused on resident experience programming for Class A multifamily in Atlanta. Would value connecting with leaders in your space. — [Your Name]
 
 **Option C — Mutual context:**
+
 > Hi [First Name] — I saw your work at [Management Company / Property Name] and am researching how top communities approach resident programming. Would love to connect. — [Your Name]
 
 ---
 
 ## First Message After Connection
 
-*Send within 24 hours. Goal: book discovery call — not send PDF.*
+_Send within 24 hours. Goal: book discovery call — not send PDF._
 
 Hi [First Name],
 
@@ -37,7 +40,7 @@ Worth 15 minutes? I have [day/time] or [day/time] open: [calendar link]
 
 ## Follow-Up Message
 
-*Send 5–7 days later if no reply.*
+_Send 5–7 days later if no reply._
 
 Hi [First Name],
 
@@ -55,19 +58,21 @@ If a 15-minute call would be useful, I'm happy to share how we structure an 8-we
 
 ## Pilot Offer Message
 
-*Send after a positive reply or warm conversation.*
+_Send after a positive reply or warm conversation._
 
 Hi [First Name],
 
 Great speaking with you [earlier / last week]. As discussed, here's the short version of our **8-Week Resident Wellness Pilot**:
 
 **What you get:**
+
 - 2 live classes per week (yoga, Pilates, strength, or mix — your choice)
 - Resident registration, reminders, and attendance tracking
 - Monthly engagement report
 - Promotional assets for your channels
 
 **What your team does:**
+
 - Approve schedule and spaces
 - Share registration link with residents
 - Provide amenity access on class days
@@ -84,7 +89,7 @@ I can send a one-page overview and proposal for [Property Name] if helpful. Woul
 
 ## LinkedIn Best Practices
 
-1. **Profile first:** Before outreach, ensure your LinkedIn headline says something like: *Founder, ResideWell | Resident Wellness & Amenity Activation for Luxury Multifamily*
+1. **Profile first:** Before outreach, ensure your LinkedIn headline says something like: _Founder, ResideWell | Resident Wellness & Amenity Activation for Luxury Multifamily_
 2. **One property per message:** Don't mention you're emailing 50 properties.
 3. **No attachments in first message:** Offer to send the one-pager after they reply.
 4. **Track in CRM:** Status → LinkedIn Sent; note which message stage you're on.

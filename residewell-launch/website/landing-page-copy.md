@@ -59,12 +59,12 @@ This isn't a gym. It's a structured resident experience that strengthens communi
 **Body:**
 Low risk. Clear scope. Real data.
 
-| | |
-|---|---|
-| **Duration** | 8 weeks |
-| **Classes** | 2 per week (16 total) |
+|                      |                                                           |
+| -------------------- | --------------------------------------------------------- |
+| **Duration**         | 8 weeks                                                   |
+| **Classes**          | 2 per week (16 total)                                     |
 | **Your team's lift** | Approve schedule, share registration link, provide access |
-| **Investment** | $4,000 all-inclusive |
+| **Investment**       | $4,000 all-inclusive                                      |
 
 **CTA:** Request Pilot Overview →
 

@@ -3,6 +3,7 @@
 **Primary goal:** Get a **discovery call on the calendar** or a **signed pilot** — not endless "checking in."
 
 **SLAs:**
+
 - Reply to prospect: **4 hours**
 - Post-discovery thank-you + PDF: **2 hours**
 - Post-discovery proposal (if needed): **24 hours**
@@ -21,6 +22,7 @@ Hi [First Name],
 Great speaking with you today. As promised, here's the **8-Week Resident Wellness Pilot** overview for [Property Name].
 
 **Quick recap of what we discussed:**
+
 - [Pain point they mentioned]
 - [Space or amenity you talked about]
 - [Their timeline or priority]
@@ -88,10 +90,12 @@ Hi [First Name],
 Excited to move forward. Here's what we need to launch:
 
 **From ResideWell:**
+
 - [ ] Signed pilot agreement (attached)
 - [ ] Invoice for $4,000 — [payment terms: due on signing / 50% upfront]
 
 **From [Property Name]:**
+
 - [ ] Confirm class schedule (2x/week — proposed: [days/times])
 - [ ] Confirm spaces: [list spaces]
 - [ ] Point of contact for building access and resident communication
@@ -125,13 +129,13 @@ Best,
 
 ## Internal Follow-Up Rules
 
-| Situation | Action |
-|-----------|--------|
-| No reply after 5 emails | Status → Nurture or Lost. Send break-up email. |
-| Said "call me in [month]" | Calendar reminder + CRM Next Follow-Up Date |
-| Referred to someone else | New contact in CRM, restart sequence |
-| Verbal yes, no signature | Follow up every 3 days until signed or declined |
-| Pilot signed | Move to `client-onboarding-checklist.md` |
+| Situation                 | Action                                          |
+| ------------------------- | ----------------------------------------------- |
+| No reply after 5 emails   | Status → Nurture or Lost. Send break-up email.  |
+| Said "call me in [month]" | Calendar reminder + CRM Next Follow-Up Date     |
+| Referred to someone else  | New contact in CRM, restart sequence            |
+| Verbal yes, no signature  | Follow up every 3 days until signed or declined |
+| Pilot signed              | Move to `client-onboarding-checklist.md`        |
 
 ---
 

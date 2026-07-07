@@ -1,29 +1,37 @@
 # Property Outreach Email Sequence
 
-**Week 1 goal:** Send **Email 1 only** to 15 verified contacts. Book discovery calls — not pilots — from replies.
+> **Goal:** Book **15-minute discovery calls** — not close pilots in cold email.
 
-**Rules:**
-1. `Contact Verified = Yes` in CRM before sending.
-2. `Personalization Hook` pasted into every Email 1 — no generic sends.
-3. Respond to replies within 4 hours → `sales/discovery-call-booking.md`.
-4. Space follow-ups 4 business days. Stop sequence if they reply.
+**Week 1:** Send **Email 1 only** to 15 verified contacts.
 
 ---
 
-## Before Every Email (60 seconds)
+## Rules
 
-| Check | ✓ |
-|-------|---|
-| First name correct (not "Leasing Team") | |
-| Personalization Hook is specific to THIS property | |
-| CTA is 15-minute call with 2 time options or calendar link | |
-| CRM updated: Status → Outreach Sent, Next Follow-Up → +4 days | |
+| #   | Rule                                                 |
+| --- | ---------------------------------------------------- |
+| 1   | `Contact Verified = Yes` in CRM before sending       |
+| 2   | Paste **Personalization Hook** into every Email 1    |
+| 3   | Reply within 4 hr → `discovery-call-booking.md`      |
+| 4   | Space follow-ups 4 business days; stop if they reply |
+
+---
+
+## Pre-send checklist (60 sec)
+
+| Check                                                         | ✓   |
+| ------------------------------------------------------------- | --- |
+| First name correct (not "Leasing Team")                       |     |
+| Personalization Hook is specific to THIS property             |     |
+| CTA is 15-minute call with 2 time options or calendar link    |     |
+| CRM updated: Status → Outreach Sent, Next Follow-Up → +4 days |     |
 
 ---
 
 ## Email 1: Book the Discovery Call (use this week)
 
 **Subject options (pick one):**
+
 - `[Property Name]` + resident programming
 - Quick question — `[Property Name]` amenities
 - 15 min? Resident experience at `[Property Name]`
@@ -119,7 +127,7 @@ Best,
 [Your Name]
 [Phone]
 
-*Attach one-pager PDF only if they previously asked for info.*
+_Attach one-pager PDF only if they previously asked for info._
 
 ---
 

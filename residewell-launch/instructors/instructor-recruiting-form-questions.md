@@ -13,124 +13,124 @@ Use these questions in Google Forms or Typeform.
 
 ## Section 1: Contact Information
 
-1. **Full name** *(short answer, required)*
-2. **Email address** *(email, required)*
-3. **Phone number** *(short answer, required)*
-4. **City / neighborhood** *(short answer, required)*
-5. **LinkedIn or professional website** *(URL, optional)*
-6. **Instagram handle** *(short answer, optional — for fitness/wellness instructors)*
+1. **Full name** _(short answer, required)_
+2. **Email address** _(email, required)_
+3. **Phone number** _(short answer, required)_
+4. **City / neighborhood** _(short answer, required)_
+5. **LinkedIn or professional website** _(URL, optional)_
+6. **Instagram handle** _(short answer, optional — for fitness/wellness instructors)_
 
 ---
 
 ## Section 2: Teaching Background
 
-7. **What formats do you teach?** *(checkboxes, required)*  
-   - Yoga (Vinyasa)  
-   - Yoga (Hatha / Gentle)  
-   - Pilates (mat)  
-   - Barre  
-   - Strength / HIIT  
-   - Mobility / Stretch  
+7. **What formats do you teach?** _(checkboxes, required)_
+   - Yoga (Vinyasa)
+   - Yoga (Hatha / Gentle)
+   - Pilates (mat)
+   - Barre
+   - Strength / HIIT
+   - Mobility / Stretch
    - Other: ___
 
-8. **Certifications** *(long answer, required)*  
-   *List certification body, type, and year (e.g., RYT-200, NASM-CPT, Balanced Body Pilates).*
+8. **Certifications** _(long answer, required)_  
+   _List certification body, type, and year (e.g., RYT-200, NASM-CPT, Balanced Body Pilates)._
 
-9. **Years of teaching experience** *(multiple choice, required)*  
-   - Less than 1 year  
-   - 1–2 years  
-   - 3–5 years  
+9. **Years of teaching experience** _(multiple choice, required)_
+   - Less than 1 year
+   - 1–2 years
+   - 3–5 years
    - 5+ years
 
-10. **Where do you currently teach?** *(long answer)*  
-    *Studios, gyms, corporate, online, other apartments, etc.*
+10. **Where do you currently teach?** _(long answer)_  
+    _Studios, gyms, corporate, online, other apartments, etc._
 
-11. **Do you carry your own liability insurance?** *(multiple choice, required)*  
-    - Yes — I can provide proof  
-    - No — but willing to obtain  
+11. **Do you carry your own liability insurance?** _(multiple choice, required)_
+    - Yes — I can provide proof
+    - No — but willing to obtain
     - Not sure
 
 ---
 
 ## Section 3: Availability & Logistics
 
-12. **Which days are you available for recurring classes?** *(checkboxes, required)*  
-    - Monday AM / Monday PM  
-    - Tuesday AM / Tuesday PM  
-    - Wednesday AM / Wednesday PM  
-    - Thursday AM / Thursday PM  
-    - Friday AM / Friday PM  
-    - Saturday AM / Saturday PM  
+12. **Which days are you available for recurring classes?** _(checkboxes, required)_
+    - Monday AM / Monday PM
+    - Tuesday AM / Tuesday PM
+    - Wednesday AM / Wednesday PM
+    - Thursday AM / Thursday PM
+    - Friday AM / Friday PM
+    - Saturday AM / Saturday PM
     - Sunday AM / Sunday PM
 
-13. **Can you commit to a consistent weekly slot for 8+ weeks?** *(multiple choice, required)*  
-    - Yes  
-    - Possibly — depends on schedule  
+13. **Can you commit to a consistent weekly slot for 8+ weeks?** _(multiple choice, required)_
+    - Yes
+    - Possibly — depends on schedule
     - No
 
-14. **How far are you willing to travel?** *(multiple choice, required)*  
-    - Up to 15 minutes  
-    - Up to 30 minutes  
-    - Up to 45 minutes  
+14. **How far are you willing to travel?** _(multiple choice, required)_
+    - Up to 15 minutes
+    - Up to 30 minutes
+    - Up to 45 minutes
     - 45+ minutes
 
-15. **Do you have your own music setup (speaker, playlist)?** *(multiple choice, required)*  
-    - Yes  
+15. **Do you have your own music setup (speaker, playlist)?** _(multiple choice, required)_
+    - Yes
     - No — need property to provide
 
-16. **Do you have your own mat inventory for residents?** *(multiple choice)*  
-    - Yes (10+ mats)  
-    - Some (1–9 mats)  
+16. **Do you have your own mat inventory for residents?** _(multiple choice)_
+    - Yes (10+ mats)
+    - Some (1–9 mats)
     - No — property would need to provide
 
 ---
 
 ## Section 4: Resident & Multifamily Experience
 
-17. **Have you taught in apartment communities, corporate settings, or non-studio environments?** *(multiple choice, required)*  
-    - Yes — apartment / residential  
-    - Yes — corporate / office  
-    - Yes — outdoor / pop-up  
+17. **Have you taught in apartment communities, corporate settings, or non-studio environments?** _(multiple choice, required)_
+    - Yes — apartment / residential
+    - Yes — corporate / office
+    - Yes — outdoor / pop-up
     - No — studio/gym only
 
-18. **Describe your experience teaching non-studio audiences** *(long answer)*  
-    *Residents vary in skill level. How do you modify for mixed abilities?*
+18. **Describe your experience teaching non-studio audiences** _(long answer)_  
+    _Residents vary in skill level. How do you modify for mixed abilities?_
 
-19. **How do you handle a class with low attendance (3–5 people)?** *(long answer, required)*
+19. **How do you handle a class with low attendance (3–5 people)?** _(long answer, required)_
 
 ---
 
 ## Section 5: Professional Standards
 
-20. **How early do you typically arrive before class?** *(multiple choice, required)*  
-    - 30+ minutes  
-    - 15–30 minutes  
+20. **How early do you typically arrive before class?** _(multiple choice, required)_
+    - 30+ minutes
+    - 15–30 minutes
     - Less than 15 minutes
 
-21. **How do you communicate if you're running late or need a sub?** *(long answer, required)*
+21. **How do you communicate if you're running late or need a sub?** _(long answer, required)_
 
-22. **Rate your comfort level with upbeat, resident-friendly music and energy** *(scale 1–5, required)*  
-    *1 = prefer quiet/minimal, 5 = high energy welcome*
+22. **Rate your comfort level with upbeat, resident-friendly music and energy** _(scale 1–5, required)_  
+    _1 = prefer quiet/minimal, 5 = high energy welcome_
 
-23. **Are you comfortable being photographed or featured in property marketing (with notice)?** *(multiple choice)*  
-    - Yes  
-    - With notice  
+23. **Are you comfortable being photographed or featured in property marketing (with notice)?** _(multiple choice)_
+    - Yes
+    - With notice
     - Prefer not
 
 ---
 
 ## Section 6: Compensation & Fit
 
-24. **What is your expected rate per 45–60 minute class?** *(short answer, required)*
+24. **What is your expected rate per 45–60 minute class?** _(short answer, required)_
 
-25. **How did you hear about ResideWell?** *(multiple choice)*  
-    - Instagram  
-    - Referral  
-    - LinkedIn  
-    - Google  
+25. **How did you hear about ResideWell?** _(multiple choice)_
+    - Instagram
+    - Referral
+    - LinkedIn
+    - Google
     - Other
 
-26. **Anything else we should know?** *(long answer, optional)*
+26. **Anything else we should know?** _(long answer, optional)_
 
 ---
 

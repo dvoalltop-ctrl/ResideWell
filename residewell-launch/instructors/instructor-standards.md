@@ -55,6 +55,7 @@ Every ResideWell instructor represents the property and our brand. These standar
 ## Class Setup & Breakdown
 
 **Before class:**
+
 - [ ] Space cleared and safe
 - [ ] Mats/equipment laid out or accessible
 - [ ] Music tested
@@ -62,6 +63,7 @@ Every ResideWell instructor represents the property and our brand. These standar
 - [ ] Sign-in sheet or digital check-in ready
 
 **After class:**
+
 - [ ] Equipment returned and stored
 - [ ] Space wiped down if needed
 - [ ] Trash removed
@@ -81,17 +83,17 @@ Every ResideWell instructor represents the property and our brand. These standar
 
 ## Expectations Summary
 
-| Area | Standard |
-|------|----------|
-| Arrival | 20–30 min early |
-| Attire | Clean, premium-appropriate athletic wear |
-| Music | Resident-friendly, appropriate volume |
-| Residents | Welcoming, inclusive, no soliciting |
-| Safety | Modifications offered, incidents reported immediately |
-| Setup/breakdown | Complete — space left clean |
-| Communication | ResideWell first, 4-hour response time |
-| Subs | 48-hour notice, ResideWell-approved |
-| Attendance | Submitted within 2 hours of class |
+| Area            | Standard                                              |
+| --------------- | ----------------------------------------------------- |
+| Arrival         | 20–30 min early                                       |
+| Attire          | Clean, premium-appropriate athletic wear              |
+| Music           | Resident-friendly, appropriate volume                 |
+| Residents       | Welcoming, inclusive, no soliciting                   |
+| Safety          | Modifications offered, incidents reported immediately |
+| Setup/breakdown | Complete — space left clean                           |
+| Communication   | ResideWell first, 4-hour response time                |
+| Subs            | 48-hour notice, ResideWell-approved                   |
+| Attendance      | Submitted within 2 hours of class                     |
 
 ---
 
@@ -118,10 +120,11 @@ Every ResideWell instructor represents the property and our brand. These standar
 ## Instructor Agreement (summary for onboarding)
 
 By teaching for ResideWell, instructors agree to:
+
 - Maintain current certification and liability insurance
 - Follow all standards in this document
 - Represent ResideWell and the property professionally
 - Provide 48-hour notice for schedule conflicts
 - Allow ResideWell to obtain feedback from properties and residents
 
-*Full contractor agreement to be signed before first paid class.*
+_Full contractor agreement to be signed before first paid class._

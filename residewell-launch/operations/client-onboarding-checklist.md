@@ -1,9 +1,23 @@
 # Client Onboarding Checklist
 
+> **Use only after deposit received.** Until then, focus on discovery calls and proposals.
+
+---
+
+## At a glance
+
+| Phase       | When    | Key deliverable                     |
+| ----------- | ------- | ----------------------------------- |
+| Contract    | Week -2 | Signed agreement + 50% deposit      |
+| Kickoff     | Week -2 | Schedule + spaces confirmed         |
+| Walkthrough | Week -1 | `property-walkthrough-checklist.md` |
+| Instructors | Week -1 | 2 backups per format assigned       |
+| Launch      | Week 1  | First class + attendance logged     |
+
 **Property:** _______________  
 **Kickoff date:** _______________  
 **Point of contact:** _______________  
-**Pilot tier:** Lean / Standard / Premium — $_______________
+**Pilot tier:** Standard — $4,000
 
 ---
 
@@ -102,23 +116,23 @@ Use `property-walkthrough-checklist.md`
 
 ## Documents to Deliver
 
-| Document | When |
-|----------|------|
-| Pilot agreement | Before signing |
-| Kickoff recap email | Within 24 hr of kickoff call |
-| Registration link + promo kit | Week -1 |
-| Week 4 mid-pilot summary | End of week 4 |
-| Week 8 final report | Within 5 days of last class |
-| Annual proposal | Within 7 days of final report |
+| Document                      | When                          |
+| ----------------------------- | ----------------------------- |
+| Pilot agreement               | Before signing                |
+| Kickoff recap email           | Within 24 hr of kickoff call  |
+| Registration link + promo kit | Week -1                       |
+| Week 4 mid-pilot summary      | End of week 4                 |
+| Week 8 final report           | Within 5 days of last class   |
+| Annual proposal               | Within 7 days of final report |
 
 ---
 
 ## Internal Notes
 
-| Item | Detail |
-|------|--------|
-| Deal value | $ |
-| Instructor cost (est.) | $ |
-| Gross margin (est.) | $ |
-| Portfolio potential | |
-| Referral / expansion notes | |
+| Item                       | Detail |
+| -------------------------- | ------ |
+| Deal value                 | $      |
+| Instructor cost (est.)     | $      |
+| Gross margin (est.)        | $      |
+| Portfolio potential        |        |
+| Referral / expansion notes |        |

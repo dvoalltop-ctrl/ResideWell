@@ -1,8 +1,22 @@
 # Instructor Outreach Messages
 
-**Week 1 gate:** Do not send until **10 property emails** are sent. Then send **5 messages max** — you need backup roster, not a full agency.
+> **Goal:** Build **backup roster** (2–3 per format) before pilot kickoff — not before first discovery call.
 
-**Goal:** 2–3 qualified instructors per format (yoga, Pilates, strength) before pilot kickoff — not 20 instructors before first discovery call.
+**Week 1 gate:** Send **zero** until **10 property emails** sent. Then **5 max**.
+
+---
+
+## When to recruit
+
+| Stage            | Instructor action                 |
+| ---------------- | --------------------------------- |
+| Emails 1–9       | None — focus on property outreach |
+| Email 10 sent    | Create Google Form                |
+| After email 10   | Send 5 outreach messages          |
+| Verbal pilot yes | Screen to 2 backups per format    |
+| Deposit received | Assign instructors                |
+
+---
 
 Personalize `[brackets]`. Send via Instagram DM, email, or LinkedIn.
 
@@ -80,6 +94,7 @@ Great to hear from you. Here's the next step:
 Takes about 5 minutes. We'll review this week and reach out if there's a match for upcoming class needs.
 
 Quick overview:
+
 - Classes are at apartment amenity spaces (fitness center, studio, rooftop)
 - Residents sign up in advance; typical attendance 8–15
 - We handle scheduling, property communication, and resident registration
@@ -99,6 +114,7 @@ Hi [First Name],
 Thanks for applying to teach with ResideWell. We'd like to schedule a **15-minute video call** to discuss your experience, availability, and fit for upcoming properties.
 
 Available slots:
+
 - [Day, time]
 - [Day, time]
 
@@ -110,17 +126,18 @@ Reply with what works, or send your availability.
 
 ## Outreach Tracker (5 instructors week 1 — expand after discovery call booked)
 
-| # | Name | Format | Channel | Date Sent | Replied | Screened? |
-|---|------|--------|---------|-----------|---------|-----------|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-| 4 | | | | | | |
-| 5 | | | | | | |
+| #   | Name | Format | Channel | Date Sent | Replied | Screened? |
+| --- | ---- | ------ | ------- | --------- | ------- | --------- |
+| 1   |      |        |         |           |         |           |
+| 2   |      |        |         |           |         |           |
+| 3   |      |        |         |           |         |           |
+| 4   |      |        |         |           |         |           |
+| 5   |      |        |         |           |         |           |
 
 **Expand to 15–20** only after 1 discovery call completed or verbal pilot interest.
 
 **Where to find instructors:**
+
 - Instagram: #atlantayoga #atlpilates #atlfitnessinstructor
 - Google: "yoga instructor Atlanta" / "Pilates instructor Buckhead"
 - ClassPass / Mindbody studio websites (instructor bios)

@@ -1,8 +1,20 @@
 # Phone Call Script
 
-**When to call:** After email 2 with no reply, or when you have a name but no email. Best times: Tue–Thu, 10–11 AM or 2–3 PM.
+> **Goal:** Reach the property manager → book a **15-minute discovery call**.
+
+**When:** After Email 2 with no reply, or when you have a name but no email.  
+**Best times:** Tue–Thu, 10–11 AM or 2–3 PM.
 
 ---
+
+## Call flow
+
+| Step       | Time   | What to say                  |
+| ---------- | ------ | ---------------------------- |
+| 1. Opening | 10 sec | Ask for PM by name           |
+| 2. Reason  | 20 sec | ResideWell + [Property Name] |
+| 3. Qualify | 60 sec | 2–3 questions                |
+| 4. Close   | 15 sec | Ask for 15-min call          |
 
 ## Opening Line
 
@@ -71,20 +83,20 @@
 >
 > I was reaching out about [Property Name] and sent a quick email as well. My number is [phone]. I'd love 15 minutes to see if an 8-week pilot might be a fit. Thanks, [First Name] — talk soon."
 
-*Speak slowly. Repeat your name and number once.*
+_Speak slowly. Repeat your name and number once._
 
 ---
 
 ## Objection Quick Responses (on the phone)
 
-| They say | You say |
-|----------|---------|
-| "We're not interested" | "Totally fair — can I ask what you use for resident programming today, just so I don't reach out again unnecessarily?" |
-| "Send me information" | "Will do — I'll email a one-pager today. What's the best email? And is it okay if I follow up in a few days?" |
+| They say               | You say                                                                                                                                         |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| "We're not interested" | "Totally fair — can I ask what you use for resident programming today, just so I don't reach out again unnecessarily?"                          |
+| "Send me information"  | "Will do — I'll email a one-pager today. What's the best email? And is it okay if I follow up in a few days?"                                   |
 | "We already do events" | "That's great — a lot of our partners did too. We usually complement that by handling the wellness layer consistently. Worth a 15-minute look?" |
-| "No budget" | "We start with a small 8-week pilot at $4,000 — designed to prove ROI before any annual spend. Would that be worth a conversation?" |
+| "No budget"            | "We start with a small 8-week pilot at $4,000 — designed to prove ROI before any annual spend. Would that be worth a conversation?"             |
 
-*Full objection handling: see `objection-handling.md`*
+_Full objection handling: see `objection-handling.md`_
 
 ---
 

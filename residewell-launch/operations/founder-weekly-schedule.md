@@ -1,8 +1,8 @@
-# Founder Weekly Schedule (Full-Time Job + ResideWell)
+# Founder Weekly Schedule
 
-**~10 hours/week. Every block ties to discovery calls or proposals.**
+> **~10 hours/week.** Every block ties to **discovery calls** or **proposals**.
 
-Sales first. Instructors second (only after 10 property emails). Website once.
+Sales first. Instructors after email #10. Website once.
 
 ---
 
@@ -21,71 +21,79 @@ Sales first. Instructors second (only after 10 property emails). Website once.
 ## Weekly Template
 
 ### Monday — Research + Email (1 hr)
-| Time | Activity |
-|------|----------|
+
+| Time         | Activity                                                         |
+| ------------ | ---------------------------------------------------------------- |
 | 6:00–6:40 AM | Research 3 properties → CRM → Quick Score → Personalization Hook |
-| 6:40–7:00 AM | Verify contacts → send **3 Email 1s** |
-| Evening | Off |
+| 6:40–7:00 AM | Verify contacts → send **3 Email 1s**                            |
+| Evening      | Off                                                              |
 
 ### Tuesday — Email + LinkedIn (1 hr)
-| Time | Activity |
-|------|----------|
-| 6:00–6:25 AM | Send **3 Email 1s** |
+
+| Time         | Activity                                        |
+| ------------ | ----------------------------------------------- |
+| 6:00–6:25 AM | Send **3 Email 1s**                             |
 | 6:25–6:45 AM | LinkedIn: 3 connection requests to verified PMs |
-| 6:45–7:00 AM | Reply to any prospect emails → book calls |
-| 7:00–7:30 PM | Discovery call if scheduled |
+| 6:45–7:00 AM | Reply to any prospect emails → book calls       |
+| 7:00–7:30 PM | Discovery call if scheduled                     |
 
 ### Wednesday — Email + Follow-Up (1 hr)
-| Time | Activity |
-|------|----------|
-| 6:00–6:25 AM | Send **3 Email 1s** |
+
+| Time         | Activity                                      |
+| ------------ | --------------------------------------------- |
+| 6:00–6:25 AM | Send **3 Email 1s**                           |
 | 6:25–6:45 AM | Email 2 to Monday non-responders (if 4+ days) |
-| 6:45–7:00 AM | LinkedIn: 2 follow-up messages |
-| 7:00–7:30 PM | Discovery call / proposal follow-up |
+| 6:45–7:00 AM | LinkedIn: 2 follow-up messages                |
+| 7:00–7:30 PM | Discovery call / proposal follow-up           |
 
 ### Thursday — Calls + Email (1.25 hr)
-| Time | Activity |
-|------|----------|
+
+| Time         | Activity                                             |
+| ------------ | ---------------------------------------------------- |
 | 6:00–6:20 AM | **2 phone calls** to High Quick Score non-responders |
-| 6:20–6:45 AM | Send **3 Email 1s** |
-| 6:45–7:00 AM | LinkedIn: 2 messages |
-| 7:00–7:30 PM | Discovery call if scheduled |
+| 6:20–6:45 AM | Send **3 Email 1s**                                  |
+| 6:45–7:00 AM | LinkedIn: 2 messages                                 |
+| 7:00–7:30 PM | Discovery call if scheduled                          |
 
 ### Friday — Close the Week (1 hr)
-| Time | Activity |
-|------|----------|
-| 6:00–6:25 AM | Send **3 Email 1s** (hit 15 for week) |
-| 6:25–6:40 AM | Email 2 to Tuesday non-responders |
+
+| Time         | Activity                                  |
+| ------------ | ----------------------------------------- |
+| 6:00–6:25 AM | Send **3 Email 1s** (hit 15 for week)     |
+| 6:25–6:40 AM | Email 2 to Tuesday non-responders         |
 | 6:40–7:00 AM | CRM audit: Next Follow-Up dates, Hot List |
-| 6:30–6:45 PM | Complete `weekly-execution-dashboard.md` |
+| 6:30–6:45 PM | Complete `weekly-execution-dashboard.md`  |
 
 ### Saturday — Optional Catch-Up (90 min max)
-| Time | Activity |
-|------|----------|
+
+| Time          | Activity                                                                    |
+| ------------- | --------------------------------------------------------------------------- |
 | 9:00–10:30 AM | **Pick one:** missed emails OR batch research 5 properties OR proposal prep |
 
 **Not allowed:** website redesign, logo, CRM app, reading about competitors.
 
 ### Sunday — Plan (30 min)
-| Time | Activity |
-|------|----------|
+
+| Time         | Activity                                                           |
+| ------------ | ------------------------------------------------------------------ |
 | 7:00–7:30 PM | Pick 15 Email 1 targets for next week from CRM READY TO EMAIL view |
 
 ---
 
 ## Instructor Recruiting (gate: 10 property emails sent)
 
-| When | Activity |
-|------|----------|
-| After email #10 | Create Google Form from `instructor-recruiting-form-questions.md` |
-| Thu PM week 1 | Send **5** instructor messages (not 20) |
-| After verbal pilot yes | Screen to 2 backup instructors per format |
+| When                   | Activity                                                          |
+| ---------------------- | ----------------------------------------------------------------- |
+| After email #10        | Create Google Form from `instructor-recruiting-form-questions.md` |
+| Thu PM week 1          | Send **5** instructor messages (not 20)                           |
+| After verbal pilot yes | Screen to 2 backup instructors per format                         |
 
 ---
 
 ## Discovery Call Slots (protect these)
 
 Block on calendar now:
+
 - Tue 7:00–7:30 PM
 - Wed 7:00–7:30 PM
 - Thu 7:00–7:30 PM

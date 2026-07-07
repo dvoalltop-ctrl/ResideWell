@@ -1,12 +1,21 @@
 # Discovery Call Booking
 
-**Goal:** Every positive reply becomes a **15-minute call on your calendar within 48 hours.**
-
-Speed wins. Property managers forget vendors by next week.
+> **Goal:** Every positive reply → **15-minute call on calendar within 48 hours.**
 
 ---
 
-## Before You Need This
+## SLAs
+
+| Event              | Deadline                           |
+| ------------------ | ---------------------------------- |
+| Prospect replies   | Your response within **4 hours**   |
+| They agree to call | Calendar invite within **15 min**  |
+| Call completes     | Thank-you + PDF within **2 hours** |
+| Qualified lead     | Next step within **24 hours**      |
+
+---
+
+## Before you need this
 
 - [ ] Calendly (free) or Google Calendar appointment slot — 15 min, Tue–Thu 7–8 PM + Sat 9–11 AM
 - [ ] Calendar link in a Notes snippet for copy-paste
@@ -33,6 +42,7 @@ ResideWell runs **live resident wellness programming** at luxury apartment commu
 Most properties start with an **8-week pilot** — 2 classes/week, $4,000 all-in — to test attendance before any annual commitment.
 
 Easier to cover in 15 minutes than over email. I have:
+
 - **[Day], [Time]**
 - **[Day], [Time]**
 
@@ -61,7 +71,7 @@ Worth 15 minutes? I have [Day/time] or [Day/time] open, or use this link: [Calen
 Best,
 [Your Name]
 
-*Attach: ResideWell-8-Week-Pilot.pdf*
+_Attach: ResideWell-8-Week-Pilot.pdf_
 
 ---
 
@@ -74,6 +84,7 @@ Perfect — I'll send a calendar invite for [confirmed time]. You'll get a one-p
 What's the best number to reach you? And is there anyone else from [Property Name / management company] who should join?
 
 **Then:**
+
 1. Send calendar invite within 15 minutes
 2. CRM: Status → **Discovery Booked**, Discovery Call Date → [date]
 3. Add 15-min prep block before call
@@ -91,7 +102,7 @@ Happy to walk through what's included and what success looks like at [Property N
 Best,
 [Your Name]
 
-*Do not negotiate price over email before the call.*
+_Do not negotiate price over email before the call._
 
 ---
 
@@ -154,9 +165,9 @@ Best,
 
 ## SLA Reminder
 
-| Event | Deadline |
-|-------|----------|
-| Reply received | Respond within 4 hours (same business day) |
-| Call booked | Calendar invite within 15 min |
-| Call completed | Thank-you + PDF within 2 hours |
+| Event          | Deadline                                     |
+| -------------- | -------------------------------------------- |
+| Reply received | Respond within 4 hours (same business day)   |
+| Call booked    | Calendar invite within 15 min                |
+| Call completed | Thank-you + PDF within 2 hours               |
 | Qualified lead | Proposal or confirmed next step within 24 hr |

@@ -16,14 +16,14 @@
 
 **Best for:** Properties 150–250 units post-pilot, or budget-conscious expansion.
 
-| Included | Details |
-|----------|---------|
-| Classes | 2 per week (96/year) |
-| Formats | Core rotation: yoga, Pilates, strength |
-| Registration & attendance | Yes |
-| Reporting | Quarterly engagement report |
-| Marketing | Template assets quarterly |
-| Events | — |
+| Included                  | Details                                |
+| ------------------------- | -------------------------------------- |
+| Classes                   | 2 per week (96/year)                   |
+| Formats                   | Core rotation: yoga, Pilates, strength |
+| Registration & attendance | Yes                                    |
+| Reporting                 | Quarterly engagement report            |
+| Marketing                 | Template assets quarterly              |
+| Events                    | —                                      |
 
 ---
 
@@ -31,14 +31,14 @@
 
 **Best for:** Most Class A properties 250–400 units. **Recommended annual tier.**
 
-| Included | Details |
-|----------|---------|
-| Classes | 3 per week (144/year) |
-| Formats | Full rotation + seasonal themes |
-| Registration & attendance | Yes |
-| Reporting | Monthly engagement report |
-| Marketing | Custom monthly promo kit |
-| Events | 1 resident wellness event per quarter |
+| Included                  | Details                               |
+| ------------------------- | ------------------------------------- |
+| Classes                   | 3 per week (144/year)                 |
+| Formats                   | Full rotation + seasonal themes       |
+| Registration & attendance | Yes                                   |
+| Reporting                 | Monthly engagement report             |
+| Marketing                 | Custom monthly promo kit              |
+| Events                    | 1 resident wellness event per quarter |
 
 ---
 
@@ -46,15 +46,15 @@
 
 **Best for:** Flagship properties 400+ units, portfolio anchor properties, or ownership wanting a signature resident experience.
 
-| Included | Details |
-|----------|---------|
-| Classes | 4–5 per week |
-| Formats | Full rotation + premium formats (barre, sound bath, workshops) |
-| Registration & attendance | Yes |
-| Reporting | Monthly report + quarterly business review with ownership |
-| Marketing | Full campaign support — email, social, print |
-| Events | 1 resident wellness event per month |
-| Dedicated lead instructor | Consistent face for residents |
+| Included                  | Details                                                        |
+| ------------------------- | -------------------------------------------------------------- |
+| Classes                   | 4–5 per week                                                   |
+| Formats                   | Full rotation + premium formats (barre, sound bath, workshops) |
+| Registration & attendance | Yes                                                            |
+| Reporting                 | Monthly report + quarterly business review with ownership      |
+| Marketing                 | Full campaign support — email, social, print                   |
+| Events                    | 1 resident wellness event per month                            |
+| Dedicated lead instructor | Consistent face for residents                                  |
 
 **Premium pricing within range depends on:** unit count, number of class days, event complexity, and portfolio potential.
 
@@ -64,11 +64,11 @@
 
 Use these to close after a successful pilot:
 
-| Offer | Terms |
-|-------|-------|
-| **Pilot credit** | $2,000 off year-one Standard if signed within 30 days of pilot end |
+| Offer                  | Terms                                                                   |
+| ---------------------- | ----------------------------------------------------------------------- |
+| **Pilot credit**       | $2,000 off year-one Standard if signed within 30 days of pilot end      |
 | **Portfolio discount** | 10% off per property when 3+ properties sign in same management company |
-| **Quarterly billing** | Available on Standard and Premium — eases budget approval |
+| **Quarterly billing**  | Available on Standard and Premium — eases budget approval               |
 
 ---
 
@@ -91,8 +91,8 @@ Use these to close after a successful pilot:
 
 ## Quick Reference
 
-| Tier | Monthly | Annual | Classes/Week |
-|------|---------|--------|--------------|
-| Essential | $1,250 | $15,000 | 2 |
-| Standard | $1,800 | $21,600 | 3 |
-| Premium | $2,700–$3,300 | $32,400–$39,600 | 4–5 |
+| Tier      | Monthly       | Annual          | Classes/Week |
+| --------- | ------------- | --------------- | ------------ |
+| Essential | $1,250        | $15,000         | 2            |
+| Standard  | $1,800        | $21,600         | 3            |
+| Premium   | $2,700–$3,300 | $32,400–$39,600 | 4–5          |
