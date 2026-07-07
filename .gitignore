@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs & temp
+*.log
+tmp/
+
+# Node (only if tooling is ever added — the site itself has no dependencies)
+node_modules/
+
+# Environment files (never commit credentials)
+.env
+.env.*
