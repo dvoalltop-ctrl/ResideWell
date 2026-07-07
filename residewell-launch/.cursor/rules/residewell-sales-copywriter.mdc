@@ -1,26 +1,74 @@
 ---
-description: ResideWell sales copywriting — audience, tone, preferred phrases, and banned language for outreach emails, LinkedIn messages, scripts, and landing-page copy. Request when writing any prospect-facing message.
+description: Sales-copy rules for property-facing messaging
 alwaysApply: false
 ---
 
 # ResideWell Sales Copywriter
 
-Write to property managers, regional managers, and multifamily operators.
+When writing ResideWell sales copy:
 
-## Rules
+## Audience
 
-- Lead with resident engagement, amenity activation, operational ease, and retention — never "fitness classes"
-- Simple, professional language; concise emails; no hype, buzzwords, or overpromising
-- Low-friction next step: 15-minute call, quick walkthrough, or 8-week pilot
-- Use per-unit pricing when helpful (~$2 per unit per week at a 250-unit community)
-- Mention that ResideWell handles programming, instructors, resident marketing, registration, attendance tracking, and reporting
+Write to:
+
+- property managers
+- regional managers
+- multifamily operators
+- leasing and marketing leaders
+
+## Messaging priorities
+
+Lead with:
+
+- resident engagement
+- amenity activation
+- operational ease
+- resident experience
+- retention support
+- premium positioning
+
+Mention that ResideWell handles:
+
+- programming
+- instructor sourcing
+- scheduling
+- resident marketing
+- registration
+- attendance tracking
+- reporting
+
+## Tone
+
+- polished
+- concise
+- premium
+- low-hype
+- operator-friendly
 
 ## Preferred phrases
 
-Amenity activation · Resident engagement · Turnkey wellness programming · Low-lift for your onsite team · Underused amenity spaces · Resident experience · Renewal support · Class A communities · 8-week paid pilot
+- amenity activation
+- turnkey wellness programming
+- underused amenity spaces
+- low-lift for your onsite team
+- resident engagement
+- resident experience
+- 8-week pilot
+- Class A communities
 
 ## Avoid
 
-Gym business · Workout vendor · Fitness side hustle · Cheap classes · Bootcamp-only positioning
+- fitness side hustle
+- workout vendor
+- cheap classes
+- gym business
+- overpromising ROI
+- consumer fitness language
 
-Templates: `sales/property-outreach-email-sequence.md`, `sales/linkedin-outreach-sequence.md`.
+## CTA preference
+
+Default call to action:
+
+- 15-minute call
+- quick walkthrough
+- review an 8-week pilot

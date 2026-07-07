@@ -69,15 +69,15 @@
 
 ### Pipeline & deal
 
-| Field                                                         | Values                                                  |
-| ------------------------------------------------------------- | ------------------------------------------------------- |
-| Priority Level                                                | High (Fit 5) / Medium (Fit 4) / Low (Fit 3)             |
-| Last Contact Date / Next Follow-Up Date / Discovery Call Date | YYYY-MM-DD — Next Follow-Up never blank on active leads |
-| Notes                                                         | Email history, call quotes, objections                  |
-| Proposed Offer                                                | 8-Week Pilot (default)                                  |
-| Proposal Sent                                                 | Yes / No                                                |
-| Deal Value                                                    | 4000                                                    |
-| Close Probability                                             | 10% / 25% / 50% / 75% / 90%                             |
+| Field                                                         | Values                                                                                                                                                          |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Priority Level                                                | High (Fit 5) / Medium (Fit 4) / Low (Fit 3). A/B/C equivalent: A = high fit + portfolio potential, B = good fit missing proof points, C = low fit or low budget |
+| Last Contact Date / Next Follow-Up Date / Discovery Call Date | YYYY-MM-DD — Next Follow-Up never blank on active leads                                                                                                         |
+| Notes                                                         | Email history, call quotes, objections                                                                                                                          |
+| Proposed Offer                                                | 8-Week Pilot (default)                                                                                                                                          |
+| Proposal Sent                                                 | Yes / No                                                                                                                                                        |
+| Deal Value                                                    | 4000                                                                                                                                                            |
+| Close Probability                                             | 10% / 25% / 50% / 75% / 90%                                                                                                                                     |
 
 ---
 

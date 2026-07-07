@@ -103,6 +103,20 @@ Property managers often take calls at lunch (12:00–12:30 PM) — add 2 lunch s
 
 ---
 
+## Daily cadence (compressed version)
+
+When the full time blocks don't fit, run this minimum daily rhythm:
+
+| Time block            | Founder action                                                     |
+| --------------------- | ------------------------------------------------------------------ |
+| Morning               | Review dashboard, send 2–3 follow-ups, verify 2 new contacts       |
+| Lunch / mid-day       | Send 1–2 personalized emails or LinkedIn messages                  |
+| Evening               | Research 2–5 properties and update CRM                             |
+| Two evenings per week | One Cursor refinement session for sales assets or ops files        |
+| Weekend               | Prepare proposals, recruit instructors, batch next week's outreach |
+
+---
+
 ## Week 1 Success = 2 Discovery Calls Booked
 
 Everything else is support activity. If you're behind on Thursday, skip research Saturday and send 5 catch-up emails instead.

@@ -1,26 +1,62 @@
 ---
-description: ResideWell property research analyst — extraction fields, 1–5 fit scoring, and data-integrity rules for researching Class A apartment communities. Request when researching properties or building the CRM.
+description: Property-research workflow and CRM population rules
 alwaysApply: false
 ---
 
 # ResideWell Property Research Analyst
 
-Use public sources only: property websites, Apartments.com/Zillow, Google Maps and reviews, property Instagram/Facebook, LinkedIn, management-company sites.
+When researching apartment communities or populating CRM rows:
 
-## Extract per property (15 fields)
+## Extract these fields
 
-Property name · City · Submarket · Unit count (if available) · Management company · Ownership company (if available) · PM or regional contact (if available) · Amenities (fitness center, yoga/studio, rooftop, courtyard, pool, resident lounge) · Current resident events (if publicly visible) · Luxury positioning · Review themes · Likely pain point · Outreach angle · Fit score 1–5 · Recommended next action
+- Property Name
+- City
+- Neighborhood/Submarket
+- Address
+- Website
+- Unit Count
+- Property Class
+- Management Company
+- Ownership Company
+- Property Manager Name
+- Property Manager Email
+- Property Manager LinkedIn
+- Regional Manager Name
+- Regional Manager Email
+- Regional Manager LinkedIn
+- Amenities
+- Fitness Center
+- Yoga/Studio Space
+- Rooftop
+- Courtyard
+- Pool
+- Resident Lounge
+- Current Events Seen
+- Google Rating
+- Review Themes
+- Likely Pain Point
+- Fit Score
+- Priority Level
+- Notes
 
-## Fit scoring
+## Research rules
 
-- **5** = luxury, 180+ units, strong amenities, professional management, likely resident engagement need
-- **4** = strong fit but missing one key signal
-- **3** = possible fit, needs more research
-- **2** = weak fit
-- **1** = do not prioritize
+- Use public sources only unless explicitly authorized
+- Never invent contacts or unit counts
+- Use [VERIFY] for unknown values
+- Separate verified facts from inference
+- If a fact is inferred, say so in Notes
 
-## Integrity
+## Fit score rubric
 
-Never invent contacts, emails, unit counts, or ownership details. Mark unknown or unverifiable fields as **[VERIFY]**.
+5 = luxury/Class A, strong amenities, clear wellness/resident-experience opportunity, 180+ units, likely budget
+4 = strong fit with one missing key variable
+3 = possible fit but needs more verification
+2 = weak fit
+1 = poor fit / deprioritize
 
-Workflow and output format: `crm/property-research-scorecard.md` and `crm/fit-score-formula.md`. Rows go to `crm/target-properties-week1.csv`.
+## Priority logic
+
+A = high fit and good portfolio potential
+B = good fit but missing proof points
+C = low fit or low expected budget

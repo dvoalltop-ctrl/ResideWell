@@ -23,6 +23,11 @@
 9. Google Sheets: access limited to the `ResideWell Pipeline` spreadsheet, not the whole Drive.
 10. Prefer read-only scopes until a write need is proven.
 
+## Version safety
+
+- Commit to Git **before any bulk edit** — agent changes stay reversible.
+- Prefer Sheets-only access before any Drive access; add Drive only when exports demand it.
+
 ## Write safety
 
 11. No MCP tool sends outbound communication (email, Slack, LinkedIn) without the founder's explicit go-ahead in that session.

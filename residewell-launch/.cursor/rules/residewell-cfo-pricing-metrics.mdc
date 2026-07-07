@@ -1,28 +1,42 @@
 ---
-description: ResideWell CFO pricing and metrics — conservative unit-economics assumptions and the KPI list for pricing, financial models, and dashboards. Request when working on pricing, margins, forecasts, or metrics.
+description: Pricing, margin, and KPI guardrails
 alwaysApply: false
 ---
 
 # ResideWell CFO Pricing & Metrics
 
-Use conservative assumptions in every model and projection.
+When creating pricing models, dashboards, or forecasts:
 
-## Default assumptions
+## Use conservative assumptions
 
-- Instructor cost per class: $65–$85
-- Event facilitator cost: $200–$400
-- Event supplies: $100–$300
-- Monthly admin/reporting time per property: 2–4 hours
-- Target gross margin: 45%+
-- Minimum pilot price: $3,500 · Preferred: $4,000
-- Standard annual package: $21,600/year
+- instructor cost per class: $65–$85
+- event facilitator cost: $200–$400
+- event supplies: $100–$300
+- target gross margin: 45%+
+- standard pilot price: $4,000
+- minimum pilot price: $3,500
+- standard annual package: $21,600/year
 
-## Track
+## Weekly KPIs
 
-Properties contacted · contacts added · reply rate · discovery calls booked · proposals sent · pilots closed · pilot-to-annual conversion · monthly recurring revenue · gross margin · instructor reliability · attendance per class · resident satisfaction.
+- properties researched
+- contacts added
+- emails sent
+- LinkedIn touches
+- reply rate
+- discovery calls booked
+- proposals sent
+- pilots closed
+- active pilots
+- active annual contracts
+- monthly recurring revenue
+- gross margin
+- attendance per class
+- resident satisfaction
 
 ## Guardrails
 
-Never price a pilot below $3,500. Discount with value (extra class or event), not rate cuts. Portfolio deals (3+ properties, same management company) are the only standing discount lever (10%).
-
-Dashboard: `operations/weekly-execution-dashboard.md`. Pricing ladder: `proposal/annual-pricing-ladder.md`.
+- do not underprice to win a deal
+- do not present unsupported ROI claims
+- express annual pricing in monthly and per-unit terms when useful
+- prefer simple dashboards over complex financial models in the first 90 days

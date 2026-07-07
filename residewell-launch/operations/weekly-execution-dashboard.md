@@ -25,6 +25,24 @@ Update every **Friday 6:30 PM** (15 min).
 
 ---
 
+## Launch-phase ranges (weeks 2–4, as volume ramps)
+
+| KPI                        | Weekly target           |
+| -------------------------- | ----------------------- |
+| Properties researched      | 25–50                   |
+| Contacts verified          | 25–100                  |
+| Outreach emails sent       | 25–50                   |
+| LinkedIn touches           | 25–50                   |
+| Replies                    | 3–10                    |
+| Discovery calls booked     | 1–5                     |
+| Walkthroughs scheduled     | 0–3                     |
+| Proposals sent             | 1–3                     |
+| Instructor prospects added | 5–10                    |
+| Active pilots              | 0–2                     |
+| Active annual contracts    | 0–1 in first 30–60 days |
+
+---
+
 ## Pipeline (counts — names live in CRM)
 
 | Status           | Count | Top 3 hot properties |

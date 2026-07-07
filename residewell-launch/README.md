@@ -127,6 +127,19 @@ Research 15 properties (public data, Fit Score 1–5)
 
 ---
 
+## First 30 days
+
+| Week   | Primary objective                 | Founder KPI                          |
+| ------ | --------------------------------- | ------------------------------------ |
+| Week 1 | Asset creation and first outreach | 15 emails · 2 discovery calls booked |
+| Week 2 | Expand list and improve messaging | 25–50 total touches                  |
+| Week 3 | Discovery-call readiness          | 2–5 calls completed                  |
+| Week 4 | Proposal and pilot close motion   | 1–3 proposals out                    |
+
+Launch-phase weekly KPI ranges: `operations/weekly-execution-dashboard.md`.
+
+---
+
 ## Guardrails — what not to overbuild
 
 - **Do not** build apps, databases, or backend services — the CSV + Google Sheets is the system.
