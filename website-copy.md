@@ -11,20 +11,37 @@ Links:
 - Programs
 - Contact
 
-CTA: Request a Pilot
+CTA: Book a Pilot Call
 
 ## Hero
 
 Headline: Turn underused apartment amenities into resident experiences worth renewing for.
 
-Subheadline: ResideWell helps luxury apartment communities activate fitness centers, rooftops, lounges, courtyards, and wellness spaces with turnkey resident programming - without adding work to the onsite team.
+Eyebrow: For Class A multifamily and luxury apartment communities
+
+Subheadline: ResideWell helps property teams launch low-lift resident wellness programming in fitness centers, rooftops, lounges, courtyards, and wellness spaces - starting with a focused 8-week paid pilot.
 
 CTA buttons:
 
-- Request an 8-Week Pilot
-- See What We Handle
+- Book a 15-Minute Pilot Call
+- Review the Pilot Scope
 
-Trust line: Built for Class A multifamily communities, lease-ups, and professionally managed apartment portfolios.
+Trust line: Built for Class A multifamily communities, lease-ups, and professionally managed apartment portfolios in Metro Atlanta and North Atlanta.
+
+Credibility notes:
+
+- No resident portal
+- No added onsite workload
+- Founder-led service
+
+Pilot snapshot:
+
+- 8-week paid pilot
+- Starts at $4,000
+- Includes 8 classes
+- Weekly live resident wellness class
+- Launch marketing and QR-code registration
+- Attendance, feedback, and final engagement summary
 
 ## Problem
 
@@ -44,11 +61,13 @@ Problem cards:
 
 Headline: ResideWell makes resident wellness programming turnkey.
 
-Copy: We plan, staff, promote, track, and report on wellness experiences that help apartment communities create a more active, connected, and premium resident experience.
+Copy: We act as the operating partner behind the program: planning, instructor coordination, resident marketing, registration, attendance tracking, feedback, and reporting. Your team approves the schedule and shares the resident-facing materials.
 
 ## What We Handle
 
-Headline: Everything needed to run consistent resident programming.
+Headline: A simple operating layer for resident engagement.
+
+Copy: ResideWell handles the work that usually makes amenity programming hard to sustain.
 
 Cards:
 
@@ -76,11 +95,17 @@ Includes:
 - Final engagement summary
 - Annual program recommendation
 
+Intro copy: A 15-minute call is enough to confirm fit, review your amenity spaces, and decide whether a pilot proposal makes sense.
+
 Price language: Pilot programs typically start at $4,000, with lean and premium options available based on property size, schedule, and event needs.
 
-CTA: Request Pilot Details
+Property team lift: Your team approves the schedule, shares the registration link, and provides amenity access. ResideWell handles the operating details.
+
+CTA: Book a 15-Minute Pilot Call
 
 ## Annual Programs
+
+Intro copy: Annual pricing is included for planning context. Most properties should start with the 8-week pilot and use the engagement summary to choose the right ongoing program.
 
 ### Essential
 
@@ -106,7 +131,7 @@ Label: Most Popular
 - 3 classes per week
 - Monthly resident wellness events
 - Expanded programming
-- Premium reporting
+- Expanded reporting
 - Portfolio support available
 - Starting at $2,700/month
 
@@ -116,7 +141,7 @@ Headline: Designed to support the onsite team, not add to their workload.
 
 - Low lift for onsite staff
 - Better use of existing amenities
-- More resident engagement
+- A clearer resident engagement plan
 - Stronger leasing tour story
 - Reporting property teams can share with ownership
 - Flexible programming by property type
@@ -140,9 +165,11 @@ Copy: ResideWell is founder-led and built around professional service, clear com
 
 ## Contact
 
-Headline: Want to test resident wellness programming at your property?
+Headline: Book a 15-minute call about an 8-week pilot.
 
 Copy: Start with a simple 8-week pilot designed to measure resident interest, activate existing amenity spaces, and give your team a clear path forward.
+
+Note: No long RFP needed. Share your property name, location, and amenity spaces, and we will follow up with the best next step.
 
 Form fields:
 
@@ -152,7 +179,7 @@ Form fields:
 - Property Location
 - Message
 
-CTA: Request Pilot Information
+CTA: Request Pilot Call
 
 ## Footer
 

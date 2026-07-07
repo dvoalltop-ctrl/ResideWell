@@ -6,6 +6,7 @@
 - [ ] Add Calendly link if available
 - [ ] Add founder name if desired
 - [ ] Confirm CTA destination
+- [ ] Confirm the primary CTA says book/request a 15-minute pilot call
 - [ ] Export pilot one-pager PDF
 - [ ] Add real property case study later
 - [ ] Add privacy policy later if collecting form submissions
@@ -18,3 +19,4 @@
 - [ ] Confirm no fake testimonials, fake client logos, invented address, or invented phone number were added
 - [ ] Confirm the 8-week pilot is the primary next step
 - [ ] Confirm pricing language matches the current pilot and annual program offer
+- [ ] Confirm every credibility statement is true without needing testimonials, logos, or invented metrics
