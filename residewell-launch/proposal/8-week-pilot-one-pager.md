@@ -1,7 +1,7 @@
 # 8-Week Resident Wellness Pilot — [Property Name]
 
 > **ResideWell** — Resident Experience & Amenity Activation for Class A Communities
-> **Use:** Customize the `[brackets]`, export to PDF, send within 24 hours of the discovery call.
+> **Use:** Customize the `[brackets]`, export to PDF (`export-instructions.md`), send within 24 hours of the discovery call.
 
 ---
 
@@ -11,21 +11,21 @@
 
 ---
 
-## 2. Property-specific opportunity
+## 2. The opportunity
 
-[Property Name] is a [unit count]-unit Class A community in [Submarket] with [name the specific spaces: wellness studio / rooftop / resident lounge]. Based on [our conversation on [date] / public information], these spaces are underused relative to their potential — a consistent, professionally run program would give residents a reason to use them every week.
+[Property Name] is a [unit count]-unit Class A community in [Submarket] with [name the specific spaces: wellness studio / rooftop / resident lounge]. Based on [our conversation on [date] / public information], these spaces are underused relative to their potential — consistent, professionally run programming would give residents a reason to use them every week.
 
 _[One sentence from the discovery call, in their words.]_
 
 ---
 
-## 3. Problem
+## 3. The problem
 
 Class A communities invest heavily in amenities, but utilization drops after lease-up. Onsite teams are asked to drive resident engagement and renewals — without the hours to plan, staff, market, and measure weekly programming.
 
 ---
 
-## 4. Recommended 8-week pilot
+## 4. The recommended pilot
 
 | Element           | Detail                                                    |
 | ----------------- | --------------------------------------------------------- |
@@ -33,26 +33,32 @@ Class A communities invest heavily in amenities, but utilization drops after lea
 | Programming       | **1 live class per week** in [proposed space]             |
 | Proposed schedule | [e.g., Tuesday 6:30 PM]                                   |
 | Format            | [Yoga / Pilates / strength — matched to resident profile] |
-| Launch marketing  | Email copy, portal post, and flyer for your channels      |
-| Registration      | Resident registration QR code + sign-up link              |
-| Measurement       | Attendance tracking + resident feedback survey            |
-| Closeout          | Final engagement report + annual program recommendation   |
+| Kickoff           | ~2 weeks after agreement                                  |
 
 ---
 
-## 5. What ResideWell handles
+## 5. What is included
 
-- Programming design and vetted, insured instructors
-- Launch marketing assets for your resident channels
-- Resident registration (QR code, link, reminders)
-- Attendance tracking every class
+- 8 live classes led by vetted, insured instructors
+- Launch marketing kit — email copy, portal post, and flyer for your channels
+- Resident registration QR code and sign-up link with reminders
+- Attendance tracking at every class
 - Resident feedback survey
-- Final engagement report with annual program recommendation
-- One point of contact for your team
+- Final engagement report with an annual program recommendation
 
 ---
 
-## 6. What the property team handles
+## 6. What ResideWell handles
+
+- Programming design and instructor management (scheduling, backup coverage)
+- All resident marketing assets
+- Registration, reminders, and capacity management
+- Attendance data collection and reporting
+- One point of contact for your team — no vendor juggling
+
+---
+
+## 7. What the property team handles
 
 - Approve the schedule and space (one-time)
 - Share the registration link and QR code with residents
@@ -63,7 +69,7 @@ Class A communities invest heavily in amenities, but utilization drops after lea
 
 ---
 
-## 7. Timeline
+## 8. Timeline
 
 | When      | What happens                                                             |
 | --------- | ------------------------------------------------------------------------ |
@@ -72,11 +78,9 @@ Class A communities invest heavily in amenities, but utilization drops after lea
 | Week 4    | Mid-pilot check-in — adjust format or time if needed                     |
 | Week 8    | Final class, feedback survey, engagement report, annual recommendation   |
 
-Kickoff approximately 2 weeks after agreement.
-
 ---
 
-## 8. Success metrics
+## 9. Success metrics
 
 | Metric                   | What it tells you                |
 | ------------------------ | -------------------------------- |
@@ -89,7 +93,7 @@ Reported at week 4 and week 8 — honestly, with recommendations either way.
 
 ---
 
-## 9. Investment
+## 10. Investment
 
 ### $4,000 — all-inclusive
 
@@ -101,13 +105,13 @@ At a [250]-unit community, that's about **$2 per unit per week** — typically l
 
 ---
 
-## 10. Next step
+## 11. Next step
 
-Reply to confirm, or grab 15 minutes to finalize the schedule and kickoff date: [Calendar link]
+Reply to confirm, or grab 15 minutes to finalize the schedule and kickoff date: [Calendly link]
 
 David Vo · Founder, ResideWell
 [Phone] · dvo.alltop@gmail.com _(update to david@residewell.com once live — see `../operations/founder-setup-guide.md`)_
 
 ---
 
-_ResideWell — turnkey wellness programming for Class A communities. Atlanta metro._
+_ResideWell — turnkey wellness programming for Class A communities. Metro Atlanta · North Atlanta · Gwinnett._

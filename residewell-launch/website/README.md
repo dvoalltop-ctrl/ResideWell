@@ -6,11 +6,9 @@
 
 ## Open in Live Preview
 
-1. Open `website/index.html` in Cursor.
+1. Open `website/simple-index.html` in Cursor.
 2. Right-click → **Show Preview** (Live Preview extension).
-3. Or click the preview icon in the editor toolbar.
-
-`styles.css` must stay in the same folder. Preview reloads when you save.
+3. `styles.css` must stay in the same folder. Preview reloads when you save.
 
 ---
 
@@ -22,7 +20,7 @@ Done already:
 - Email: `dvo.alltop@gmail.com` (working today)
 - All 4 call-to-action buttons point to Calendly
 
-Two TODOs remain (search `TODO` in `index.html`):
+Two TODOs remain (search `TODO` in `simple-index.html`):
 
 | TODO                                                                           | When                               | Guide                                      |
 | ------------------------------------------------------------------------------ | ---------------------------------- | ------------------------------------------ |
@@ -37,16 +35,16 @@ Also add your phone number: search `[Your Phone]` (1 spot).
 
 ## Files
 
-| File                   | Purpose                                         |
-| ---------------------- | ----------------------------------------------- |
-| `index.html`           | **Primary landing page** — use for Live Preview |
-| `styles.css`           | Styles (linked, not inlined)                    |
-| `simple-index.html`    | Redirects to `index.html`                       |
-| `landing-page-copy.md` | Text-only reference for emails and PDFs         |
+| File                   | Purpose                                                               |
+| ---------------------- | --------------------------------------------------------------------- |
+| `simple-index.html`    | **Primary landing page** — use for Live Preview                       |
+| `styles.css`           | Styles (linked, not inlined)                                          |
+| `index.html`           | Redirects to `simple-index.html` (kept so servers auto-open the site) |
+| `landing-page-copy.md` | Text-only reference for emails and PDFs                               |
 
 ---
 
 ## Share with prospects
 
-- **Week 1:** Paste landing page URL only if they ask. Lead with discovery call booking.
-- **Later:** Deploy `index.html` + `styles.css` to Netlify or GitHub Pages (optional).
+- **Week 1:** Paste the landing page URL only if they ask. Lead with discovery-call booking.
+- **Later:** Deploy `simple-index.html` + `styles.css` + `index.html` to Netlify or GitHub Pages (optional, free).

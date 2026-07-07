@@ -1,0 +1,34 @@
+---
+description: ResideWell pilot proposal builder — fixed section structure, default scope, and $4,000 pricing for 8-week pilot proposals. Request when drafting or customizing a proposal or one-pager.
+alwaysApply: false
+---
+
+# ResideWell Pilot Proposal Builder
+
+## Structure (in order)
+
+1. Headline
+2. The opportunity (property-specific)
+3. The problem
+4. The recommended pilot
+5. What is included
+6. What ResideWell handles
+7. What the property team handles
+8. Timeline
+9. Success metrics
+10. Investment
+11. Next step
+
+## Default pilot
+
+8 weeks · 1 live class per week · launch marketing · resident registration QR code · attendance tracking · resident feedback survey · final engagement report · annual program recommendation
+
+## Default price
+
+**$4,000** (lean $3,500 / premium $5,000 — mention only on the call)
+
+## Tone
+
+Premium, concise, operationally clear, property-manager friendly. Do not make it look like a personal training flyer — make it look like a resident experience solution.
+
+Template: `proposal/8-week-pilot-one-pager.md`. Export: `proposal/export-instructions.md`. Send within 24 hours of the discovery call.

@@ -2,6 +2,8 @@
 
 > **One goal:** Book discovery calls with luxury apartment property managers → close the first **$4,000 paid 8-week pilot**.
 
+**Right now?** Open **`README-TODAY.md`** — the next-2-hours checklist.
+
 **The offer (memorize it):** 8-week paid pilot · 1 live class per week · launch marketing · registration QR code · attendance tracking · feedback survey · final engagement report · annual recommendation · **$4,000** (~$2 per unit per week at a 250-unit community).
 
 ---
@@ -97,24 +99,41 @@ Pick one: batch research 5 properties · discovery call prep · proposal customi
 
 ## Folder map
 
-| Folder          | Purpose                                                                          |
-| --------------- | -------------------------------------------------------------------------------- |
-| `crm/`          | Pipeline CSVs (Rainbow CSV), research workflow, field rules                      |
-| `sales/`        | Daily workflow, 5-email sequence, LinkedIn, phone, discovery, objections         |
-| `proposal/`     | 10-section one-pager ($4,000 pilot), longer template, annual ladder (post-pilot) |
-| `instructors/`  | Recruiting workflow (gated), outreach, screening, standards                      |
-| `operations/`   | Playbook, dashboard, schedule, onboarding/launch checklists                      |
-| `website/`      | `index.html` (Live Preview) — update once                                        |
-| `ai-workflows/` | Optional research/personalization prompts                                        |
+| Folder / file     | Purpose                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------- |
+| `README-TODAY.md` | Today's checklist — next 2 hours, today, this week                                          |
+| `crm/`            | Pipeline CSVs (Rainbow CSV), research workflow, fit-score formula, field rules              |
+| `sales/`          | Daily workflow, 5-email sequence, LinkedIn, phone, discovery, objections, follow-ups        |
+| `proposal/`       | 11-section one-pager ($4,000 pilot), template, annual ladder (post-pilot), PDF export steps |
+| `instructors/`    | Recruiting workflow (gated), outreach, screening, standards, contractor intake              |
+| `operations/`     | Playbook, dashboard, schedule, setup guide, onboarding/launch checklists, monthly report    |
+| `website/`        | `simple-index.html` (Live Preview) — update once                                            |
+| `ai-workflows/`   | Research, personalization, proposal, reporting, and follow-up prompts                       |
+| `.cursor/rules/`  | 7 role rules — CEO strategy always applies; others on request                               |
+| `.cursor/mcp/`    | Integration guides — documentation only, no secrets                                         |
 
 ---
 
-## Guardrails
+## Fastest path to the first paid pilot
 
-- **Do not** build apps, databases, or automations — the CSV + Sheets is the system.
-- **Do not** invent contacts or unit counts — "Unknown" until verified.
+```
+Research 15 properties (public data, Fit Score 1–5)
+  → 15 personalized Email 1s + 10 LinkedIn touches + 5 calls
+  → 3 replies → 2 discovery calls booked
+  → one-pager PDF within 24 hr of each call
+  → follow up day 3, 7, 14 → verbal yes → 50% deposit
+  → PAID PILOT ($4,000)
+```
+
+---
+
+## Guardrails — what not to overbuild
+
+- **Do not** build apps, databases, or backend services — the CSV + Google Sheets is the system.
+- **Do not** invent contacts or unit counts — mark them [VERIFY] until confirmed.
 - **Do not** recruit 20 instructors — 5 messages after 10 property emails.
 - **Do not** discuss annual pricing before a pilot exists.
+- **Do not** add integrations in week 1 — `.cursor/mcp/` guides exist for when they earn their keep.
 - **Do** send 3 emails every weekday. Volume + follow-up wins.
 
 **Friday scoreboard: discovery calls booked. Everything else is supporting activity.**

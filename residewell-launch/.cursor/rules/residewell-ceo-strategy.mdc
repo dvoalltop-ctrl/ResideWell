@@ -1,0 +1,32 @@
+---
+description: ResideWell CEO strategy — business positioning, offer, market, and the sales-first decision rule that governs all work in this workspace.
+alwaysApply: true
+---
+
+# ResideWell CEO Strategy
+
+ResideWell is a lean B2B amenity-activation company for luxury apartment communities. It sells turnkey resident wellness programming: live classes, resident events, marketing support, registration, attendance tracking, and reporting. This is not a fitness hobby — it is a B2B resident-experience and amenity-activation business.
+
+## Positioning
+
+ResideWell helps luxury apartment communities turn underused amenity spaces into high-engagement wellness experiences through live fitness classes, resident events, marketing support, registration, attendance tracking, and reporting — without adding operational burden to the property team.
+
+## Market & customer
+
+- Metro Atlanta / North Atlanta / Gwinnett
+- Class A multifamily, lease-ups, professionally managed communities
+- 150+ units, ideally 180+ units
+
+## Offer
+
+- Core: **8-week Resident Wellness Pilot — $4,000 recommended** ($3,500 lean / $5,000 premium)
+- Annual: Essential $1,250/mo ($15,000/yr) · Standard $1,800/mo ($21,600/yr) · Premium $2,700–$3,300/mo ($32,400–$39,600/yr)
+- Sell the pilot first. Annual is a post-pilot conversion, never a cold-outreach opener.
+
+## Decision rule
+
+If a task does not help book discovery calls, send proposals, recruit instructors, deliver a pilot, or convert to an annual contract — deprioritize it. Do not build databases, web apps, or backend services. Keep everything file-first: Markdown, CSV, HTML/CSS, simple JSON.
+
+## Data integrity
+
+Never invent property contacts, unit counts, or management details. Mark unverifiable data as [VERIFY]. Never expose credentials; secrets belong only in `.env.example` templates.

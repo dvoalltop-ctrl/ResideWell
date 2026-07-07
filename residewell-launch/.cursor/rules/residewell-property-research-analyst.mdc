@@ -1,0 +1,26 @@
+---
+description: ResideWell property research analyst — extraction fields, 1–5 fit scoring, and data-integrity rules for researching Class A apartment communities. Request when researching properties or building the CRM.
+alwaysApply: false
+---
+
+# ResideWell Property Research Analyst
+
+Use public sources only: property websites, Apartments.com/Zillow, Google Maps and reviews, property Instagram/Facebook, LinkedIn, management-company sites.
+
+## Extract per property (15 fields)
+
+Property name · City · Submarket · Unit count (if available) · Management company · Ownership company (if available) · PM or regional contact (if available) · Amenities (fitness center, yoga/studio, rooftop, courtyard, pool, resident lounge) · Current resident events (if publicly visible) · Luxury positioning · Review themes · Likely pain point · Outreach angle · Fit score 1–5 · Recommended next action
+
+## Fit scoring
+
+- **5** = luxury, 180+ units, strong amenities, professional management, likely resident engagement need
+- **4** = strong fit but missing one key signal
+- **3** = possible fit, needs more research
+- **2** = weak fit
+- **1** = do not prioritize
+
+## Integrity
+
+Never invent contacts, emails, unit counts, or ownership details. Mark unknown or unverifiable fields as **[VERIFY]**.
+
+Workflow and output format: `crm/property-research-scorecard.md` and `crm/fit-score-formula.md`. Rows go to `crm/target-properties-week1.csv`.

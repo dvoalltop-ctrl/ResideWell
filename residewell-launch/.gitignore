@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env & secrets — never commit real credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor
+*.swp
+
+# Node (only if a tool ever adds it — no packages are required for this project)
+node_modules/
+
+# Local exports & scratch
+exports/
+*.pdf
+~$*

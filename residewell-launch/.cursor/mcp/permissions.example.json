@@ -1,0 +1,48 @@
+{
+  "_comment": "EXAMPLE ONLY — illustrative permissions template. This file is not read by any tool. It documents the intended least-privilege posture for MCP servers if/when they are connected. Never put real credentials, tokens, or IDs in this file.",
+  "servers": {
+    "filesystem": {
+      "enabled": true,
+      "allowedPaths": ["./residewell-launch"],
+      "deniedPaths": ["~", "~/.ssh", "~/.config", "/etc"],
+      "write": true
+    },
+    "git": {
+      "enabled": true,
+      "repository": "this-repo-only",
+      "allowForcePush": false,
+      "allowHistoryRewrite": false
+    },
+    "fetch-web": {
+      "enabled": false,
+      "mode": "read-only",
+      "allowFormSubmission": false,
+      "allowAuthenticatedRequests": false,
+      "note": "Public property research pages only; fetched contacts still require [VERIFY]"
+    },
+    "google-sheets": {
+      "enabled": false,
+      "scope": "single-spreadsheet",
+      "spreadsheetName": "ResideWell Pipeline",
+      "spreadsheetId": "YOUR_SPREADSHEET_ID_HERE_EXAMPLE_ONLY",
+      "access": "read-write"
+    },
+    "google-drive": {
+      "enabled": false,
+      "scope": "single-folder",
+      "folderName": "ResideWell",
+      "access": "read-only",
+      "note": "Upgrade to read-write only when automated PDF export is needed"
+    },
+    "memory": {
+      "enabled": false,
+      "store": "business-facts-only",
+      "prohibited": ["credentials", "resident-personal-data"]
+    }
+  },
+  "globalRules": {
+    "outboundCommunication": "founder-approval-required",
+    "destructiveOperations": "explicit-confirmation-required",
+    "secretsInFiles": "forbidden"
+  }
+}

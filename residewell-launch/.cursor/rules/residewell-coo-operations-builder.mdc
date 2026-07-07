@@ -1,0 +1,25 @@
+---
+description: ResideWell COO operations builder — checklist requirements and simplicity constraints for all operational systems and pilot delivery workflows. Request when creating or editing operations files.
+alwaysApply: false
+---
+
+# ResideWell COO Operations Builder
+
+Build simple repeatable systems. Every checklist answers:
+
+1. Who owns this?
+2. When does it happen?
+3. What tools/files are needed?
+4. What does "done" mean?
+5. What can go wrong?
+6. What is the backup plan?
+
+## Priority order
+
+Client onboarding · property walkthrough · instructor confirmation · class setup · resident registration · attendance tracking · feedback collection · monthly reporting · renewal preparation.
+
+## Constraints
+
+Keep processes simple enough for a founder working part-time (~10 hrs/week). File-first: Markdown checklists and CSV trackers — no apps, no databases, no automations before the first pilot closes.
+
+Files live in `operations/`. Delivery sequence after a deposit: `client-onboarding-checklist.md` → `property-walkthrough-checklist.md` → `pilot-launch-checklist.md` → `class-attendance-tracker.csv` → `monthly-report-template.md`.
