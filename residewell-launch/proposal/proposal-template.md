@@ -13,7 +13,7 @@ Copy into Google Docs, customize `[brackets]`, export PDF, send within 24 hours 
 **Prepared for:** [Contact Name], [Title]  
 **Property:** [Property Name] | [Address]  
 **Date:** [Date]  
-**Prepared by:** [Your Name], Founder, ResideWell  
+**Prepared by:** David Vo, Founder, ResideWell  
 [Phone] | [Email]
 
 ---
@@ -130,7 +130,7 @@ _Alternate tiers available: Lean ($3,500) | Premium ($5,000) — ask for details
 3. Sign pilot agreement and submit initial payment
 4. ResideWell schedules kickoff within 5 business days
 
-**Questions?** Contact [Your Name] at [phone] or [email].
+**Questions?** Contact David Vo at [phone] or [email].
 
 ---
 

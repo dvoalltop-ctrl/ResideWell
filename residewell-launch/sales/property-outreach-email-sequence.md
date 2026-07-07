@@ -41,14 +41,14 @@
 
 Hi [First Name],
 
-I'm [Your Name], founder of ResideWell. We help Class A communities activate underused amenity spaces with turnkey wellness programming — and we handle the programming, instructors, resident marketing, registration, attendance tracking, and reporting, so it's low-lift for your onsite team.
+I'm David Vo, founder of ResideWell. We help Class A communities activate underused amenity spaces with turnkey wellness programming — and we handle the programming, instructors, resident marketing, registration, attendance tracking, and reporting, so it's low-lift for your onsite team.
 
 I was researching communities in [Submarket] and [Property Name] stood out: [paste Outreach Angle from CRM].
 
 Would **15 minutes** be worth it to compare notes on resident engagement at [Property Name]? I have [Tuesday 7:00 PM] or [Thursday 12:00 PM] — or grab a slot here: [Calendar link]
 
 Best,
-[Your Name]
+David Vo
 [Phone]
 
 ---
@@ -84,7 +84,7 @@ ResideWell runs the programming layer: instructors, scheduling, resident registr
 Worth 15 minutes? [Calendar link] — or reply with a time.
 
 Best,
-[Your Name]
+David Vo
 
 ---
 
@@ -101,7 +101,7 @@ Communities use ResideWell's turnkey wellness programming to give residents a co
 Happy to walk through how it works in 15 minutes: [Calendar link]
 
 Best,
-[Your Name]
+David Vo
 
 ---
 
@@ -122,7 +122,7 @@ I'll be direct: ResideWell runs an **8-week paid pilot** for communities like [P
 15 minutes to see if it fits [Property Name]? [Calendar link]
 
 Best,
-[Your Name]
+David Vo
 [Phone]
 
 ---
@@ -138,7 +138,7 @@ I've reached out a few times — I'll assume the timing isn't right and stop her
 If resident engagement or amenity activation becomes a priority, the 8-week pilot is the simplest way to test it. I'm easy to find.
 
 Best,
-[Your Name]
+David Vo
 
 **CRM:** Status → Nurture (or Lost). Next Follow-Up → +90 days.
 

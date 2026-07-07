@@ -18,17 +18,17 @@
 
 ## Opening Line
 
-> "Hi, this is [Your Name] with ResideWell. Is [First Name] available?"
+> "Hi, this is David Vo with ResideWell. Is [First Name] available?"
 
 **If front desk answers:**
 
-> "Hi, I'm [Your Name] with ResideWell — we partner with luxury apartment communities on resident wellness programming. I'm trying to reach [Community Manager Name / the community manager]. Is [he/she/they] available, or is there a better time to reach them?"
+> "Hi, I'm David Vo with ResideWell — we partner with luxury apartment communities on resident wellness programming. I'm trying to reach [Community Manager Name / the community manager]. Is [he/she/they] available, or is there a better time to reach them?"
 
 ---
 
 ## Reason for Calling (when connected)
 
-> "Hi [First Name], I'm [Your Name], founder of ResideWell. I'll be brief — I know you're busy.
+> "Hi [First Name], I'm David Vo, founder of ResideWell. I'll be brief — I know you're busy.
 >
 > We help Class A apartment communities activate amenity spaces with live wellness classes and resident events — registration, instructors, reporting — without adding work to your team.
 >
@@ -79,7 +79,7 @@
 
 ## Voicemail Script (under 30 seconds)
 
-> "Hi [First Name], this is [Your Name] with ResideWell. We help luxury apartment communities run resident wellness programming — live classes, events, and reporting — without adding work to the property team.
+> "Hi [First Name], this is David Vo with ResideWell. We help luxury apartment communities run resident wellness programming — live classes, events, and reporting — without adding work to the property team.
 >
 > I was reaching out about [Property Name] and sent a quick email as well. My number is [phone]. I'd love 15 minutes to see if an 8-week pilot might be a fit. Thanks, [First Name] — talk soon."
 

@@ -15,7 +15,7 @@
 
 ## Opening (1 min)
 
-> "Hi [First Name], thanks for making time. I'm [Your Name], founder of ResideWell. We work with luxury apartment communities on resident wellness programming and amenity activation — live classes, events, registration, and reporting — so the property team doesn't have to run it.
+> "Hi [First Name], thanks for making time. I'm David Vo, founder of ResideWell. We work with luxury apartment communities on resident wellness programming and amenity activation — live classes, events, registration, and reporting — so the property team doesn't have to run it.
 >
 > I've got us down for 15 minutes. Does that still work for you?"
 
@@ -139,5 +139,5 @@ As discussed, I'm attaching our **8-Week Resident Wellness Pilot** overview for 
 Happy to jump on a quick call if helpful.
 
 Best,
-[Your Name]
+David Vo
 [Phone]

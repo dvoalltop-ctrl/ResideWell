@@ -40,7 +40,7 @@ Write Email 1 (soft intro) only.
 ```
 Write a LinkedIn connection request (max 300 characters) for:
 
-My name: [Your Name]
+My name: David Vo
 My company: ResideWell — resident wellness & amenity activation for luxury multifamily
 Their name: [First Name]
 Their role: [Community Manager / Regional Manager]

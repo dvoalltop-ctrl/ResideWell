@@ -26,7 +26,7 @@ Personalize `[brackets]`. Send via Instagram DM, email, or LinkedIn.
 
 Hi [First Name] — I came across your [yoga/Pilates/fitness] page and love your [specific post or style — e.g., "Saturday morning flow energy"].
 
-I'm [Your Name], founder of ResideWell. We run resident wellness programming at luxury apartment communities in Atlanta — paid recurring class slots, consistent schedule, professional environment.
+I'm David Vo, founder of ResideWell. We run resident wellness programming at luxury apartment communities in Atlanta — paid recurring class slots, consistent schedule, professional environment.
 
 We're building our instructor roster for [Buckhead / Midtown / North Atlanta] and looking for [yoga / Pilates / strength] teachers who are reliable and great with mixed-level groups.
 
@@ -40,7 +40,7 @@ Would you be open to a quick 2-minute chat? I can send details on pay, schedule,
 
 Hi [First Name],
 
-I'm [Your Name], founder of ResideWell. We partner with Class A apartment communities in Atlanta to deliver resident wellness programming — live yoga, Pilates, and fitness classes in property amenity spaces.
+I'm David Vo, founder of ResideWell. We partner with Class A apartment communities in Atlanta to deliver resident wellness programming — live yoga, Pilates, and fitness classes in property amenity spaces.
 
 I'm recruiting instructors for recurring paid class slots starting [month]. Details:
 
@@ -55,7 +55,7 @@ We're not a studio — classes are for residents in their building. Mixed levels
 Interested? Reply and I'll send a short application link. Takes 5 minutes.
 
 Best,
-[Your Name]
+David Vo
 [Phone]
 ResideWell
 
@@ -69,7 +69,7 @@ We're hiring instructors for paid recurring classes at properties in [submarket]
 
 Open to learning more? Happy to send a 5-minute application link.
 
-— [Your Name]
+— David Vo
 
 ---
 
@@ -79,7 +79,7 @@ Hi [First Name] — quick bump on my note about teaching opportunities with Resi
 
 No worries if timing isn't right. If you're ever looking for recurring paid slots outside the studio grind, I'd love to connect.
 
-— [Your Name]
+— David Vo
 
 ---
 
@@ -103,7 +103,7 @@ Quick overview:
 Pay range: **$65–$85 per class** depending on format and experience. We'll confirm on our intro call.
 
 Talk soon,
-[Your Name]
+David Vo
 
 ---
 
@@ -120,7 +120,7 @@ Available slots:
 
 Reply with what works, or send your availability.
 
-— [Your Name]
+— David Vo
 
 ---
 

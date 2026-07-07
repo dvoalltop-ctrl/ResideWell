@@ -51,7 +51,7 @@ Or grab a slot here: [Calendar link]
 I'll send a one-page overview after we chat.
 
 Best,
-[Your Name]
+David Vo
 [Phone]
 
 ---
@@ -69,7 +69,7 @@ The one thing PDFs can't answer: whether [specific space — rooftop / studio / 
 Worth 15 minutes? I have [Day/time] or [Day/time] open, or use this link: [Calendar link]
 
 Best,
-[Your Name]
+David Vo
 
 _Attach: ResideWell-8-Week-Pilot.pdf_
 
@@ -100,7 +100,7 @@ The **8-week pilot** is **$4,000 all-inclusive** — 1 live class per week, laun
 Happy to walk through what's included and what success looks like at [Property Name] — 15 minutes. [Calendar link] or [two time options].
 
 Best,
-[Your Name]
+David Vo
 
 _Do not negotiate price over email before the call._
 
@@ -115,7 +115,7 @@ Totally understand. I'll check back in [60 / 90] days unless you'd prefer I don'
 If it helps, I can send the one-pager to keep on file — no call needed.
 
 Best,
-[Your Name]
+David Vo
 
 **CRM:** Status → **Nurture**, Next Follow-Up → [date + 60 days]
 
@@ -145,7 +145,7 @@ I had us down for [time] today — no worries if something came up. Happy to res
 [Calendar link] or reply with a better time.
 
 Best,
-[Your Name]
+David Vo
 
 3. CRM: Notes → "No-show [date]", Next Follow-Up → +3 days
 

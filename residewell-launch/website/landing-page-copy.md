@@ -117,7 +117,7 @@ ResideWell exists to be the operating partner that makes resident wellness real 
 
 If you're exploring ways to activate amenities and strengthen retention, I'd welcome a conversation.
 
-— [Your Name], Founder
+— David Vo, Founder
 
 ---
 
@@ -130,7 +130,7 @@ If you're exploring ways to activate amenities and strengthen retention, I'd wel
 **CTA:** Schedule a 15-Minute Call →
 
 **Contact:**  
-[Your Name]  
+David Vo  
 [Phone]  
 [Email]
 

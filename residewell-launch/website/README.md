@@ -14,12 +14,22 @@
 
 ---
 
-## Customize (5 minutes)
+## Status — customized for David Vo
 
-| File         | Change                                                        |
-| ------------ | ------------------------------------------------------------- |
-| `index.html` | Replace `[Your Name]`, `[Your Phone]`, `hello@residewell.com` |
-| `index.html` | Update `mailto:` links if using a different email             |
+Done already:
+
+- Founder name: **David Vo** (founder note + contact section)
+- Email: `dvo.alltop@gmail.com` (working today)
+- All 4 call-to-action buttons point to Calendly
+
+Two TODOs remain (search `TODO` in `index.html`):
+
+| TODO                                                                           | When                               | Guide                                      |
+| ------------------------------------------------------------------------------ | ---------------------------------- | ------------------------------------------ |
+| Replace `calendly.com/residewell/15min` with your real Calendly link (4 spots) | After creating your Calendly event | `../operations/founder-setup-guide.md` § 2 |
+| Swap `dvo.alltop@gmail.com` → `david@residewell.com` (2 spots)                 | After Google Workspace is live     | `../operations/founder-setup-guide.md` § 1 |
+
+Also add your phone number: search `[Your Phone]` (1 spot).
 
 **Do not** spend more than 30 minutes on the website in week 1. Discovery calls come from email and LinkedIn.
 

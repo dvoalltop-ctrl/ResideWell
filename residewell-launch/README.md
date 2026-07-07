@@ -22,14 +22,24 @@
 
 ---
 
+## Day 0 — One-time setup (~1 hr)
+
+**`operations/founder-setup-guide.md`** walks through all three, click by click:
+
+1. **Professional email** — buy residewell.com (~$12/yr) + Google Workspace (~$7/mo) → `david@residewell.com`
+2. **Calendly** — create the 15-Minute Discovery Call event → paste the real link into the website (4 TODO spots) and email templates
+3. **CRM spreadsheet** — get `crm/target-properties-week1.csv` into Google Sheets (copy-paste method — no file hunting needed)
+
+Don't let #1 block outreach — Gmail works for the first sends.
+
 ## Day 1 (Monday) — Setup + first sends (~2 hr)
 
-1. **CRM (20 min):** `crm/week-1-crm-setup.md` → copy `crm/target-properties-week1.csv` into Google Sheets as `ResideWell Pipeline`. Add Status dropdown + 3 filter views.
+1. **CRM (20 min):** `crm/week-1-crm-setup.md` → copy `crm/target-properties-week1.csv` into Google Sheets as `ResideWell Pipeline` (exact steps: `operations/founder-setup-guide.md` § 3). Add Status dropdown + 3 filter views.
 2. **Research 3 properties (45 min):** `crm/property-research-scorecard.md` — public data only, 15 fields, Fit Score 1–5, mark unknowns "Unknown."
 3. **Verify contacts (20 min):** LinkedIn for your top Fit-5 properties. No verified contact = no email.
 4. **Send 3 Email 1s (15 min):** `sales/property-outreach-email-sequence.md` — paste each row's Outreach Angle.
 5. **Export the one-pager (15 min):** `proposal/8-week-pilot-one-pager.md` → Google Docs → replace brackets → save as `ResideWell-8-Week-Pilot.pdf`.
-6. **Website once (10 min):** `website/index.html` — replace `[Your Name]`, phone, email. Then close it for the week.
+6. **Website once (10 min):** `website/index.html` — already personalized for David Vo. Just add your phone number and paste your real Calendly link at the `TODO` comments. Then close it for the week.
 
 ## Day 2 (Tuesday) — Outreach + LinkedIn (~1 hr + evening slot)
 

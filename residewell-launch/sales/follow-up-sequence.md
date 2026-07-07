@@ -30,7 +30,7 @@ Great speaking with you today. As promised, here's the **8-Week Resident Wellnes
 **Next step:** [Proposed call date/time] to walk through the proposal, or reply with any questions.
 
 Best,
-[Your Name]
+David Vo
 
 ---
 
@@ -47,7 +47,7 @@ Wanted to make sure the pilot overview landed in your inbox. Happy to answer any
 Is a quick 10-minute call this week easier, or would you prefer to review async?
 
 Best,
-[Your Name]
+David Vo
 
 ---
 
@@ -62,7 +62,7 @@ One question that might help us tailor the pilot: are your residents more [young
 If the pilot is still on your radar, I'd love to lock in a start date. If timing shifted, just let me know and I'll follow up when it makes sense.
 
 Best,
-[Your Name]
+David Vo
 
 ---
 
@@ -77,7 +77,7 @@ I'll keep this short — should I keep [Property Name] on my list for an 8-week 
 Either answer is totally fine. Just helps me plan on my end.
 
 Best,
-[Your Name]
+David Vo
 
 ---
 
@@ -106,7 +106,7 @@ Excited to move forward. Here's what we need to launch:
 Let me know if anything needs to change. Looking forward to it.
 
 Best,
-[Your Name]
+David Vo
 
 ---
 
@@ -123,7 +123,7 @@ We spoke [month] about resident wellness programming. No pressure — just check
 Our 8-week pilot is still the easiest way to test. Happy to reconnect if useful.
 
 Best,
-[Your Name]
+David Vo
 
 ---
 

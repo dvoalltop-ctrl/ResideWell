@@ -12,11 +12,11 @@
 
 **Option A — property-specific:**
 
-> Hi [First Name] — I work with Class A communities in Atlanta on amenity activation and resident engagement. [Property Name] caught my attention while researching [Submarket]. Would value connecting. — [Your Name]
+> Hi [First Name] — I work with Class A communities in Atlanta on amenity activation and resident engagement. [Property Name] caught my attention while researching [Submarket]. Would value connecting. — David Vo
 
 **Option B — role-specific:**
 
-> Hi [First Name] — I'm building ResideWell, focused on resident experience programming for Class A communities in Atlanta. Would value connecting with leaders in multifamily. — [Your Name]
+> Hi [First Name] — I'm building ResideWell, focused on resident experience programming for Class A communities in Atlanta. Would value connecting with leaders in multifamily. — David Vo
 
 ---
 
@@ -30,7 +30,7 @@ ResideWell helps Class A communities activate underused amenity spaces with turn
 
 Curious how you approach resident engagement at [Property Name] today. Worth 15 minutes? I have [day/time] or [day/time]: [calendar link]
 
-— [Your Name]
+— David Vo
 
 ---
 
@@ -44,7 +44,7 @@ One thing we hear from onsite teams: residents want programming, but nobody has 
 
 If a short call would be useful, here's my calendar: [link]. If the timing's off, no problem at all.
 
-— [Your Name]
+— David Vo
 
 ---
 
@@ -61,7 +61,7 @@ Great connecting. Short version of our **8-week paid pilot** for [Property Name]
 
 I can send a one-page overview, or we can walk through it in 15 minutes — [day] or [day]?
 
-— [Your Name]
+— David Vo
 [Phone] · [Email]
 
 ---

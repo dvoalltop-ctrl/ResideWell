@@ -105,8 +105,8 @@ At a [250]-unit community, that's about **$2 per unit per week** — typically l
 
 Reply to confirm, or grab 15 minutes to finalize the schedule and kickoff date: [Calendar link]
 
-[Your Name] · Founder, ResideWell
-[Phone] · [Email]
+David Vo · Founder, ResideWell
+[Phone] · dvo.alltop@gmail.com _(update to david@residewell.com once live — see `../operations/founder-setup-guide.md`)_
 
 ---
 
